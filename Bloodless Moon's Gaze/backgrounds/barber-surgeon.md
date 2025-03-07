@@ -2,7 +2,7 @@
 title: Barber-Surgeon
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Barber-Surgeon
