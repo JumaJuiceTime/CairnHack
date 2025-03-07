@@ -2,7 +2,7 @@
 layout: default
 title: Setting Seeds
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Setting Seeds

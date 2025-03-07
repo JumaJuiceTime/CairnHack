@@ -2,7 +2,7 @@
 layout: default
 title: Bonds and Omens
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Bonds and Omens

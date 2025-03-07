@@ -2,7 +2,7 @@
 layout: default
 title: Growth
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Growth

@@ -2,7 +2,7 @@
 title: Mountebank
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Mountebank
