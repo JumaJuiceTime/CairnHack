@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Second Edition
+title: Bloodless Moon's Gaze
 has_children: true
-nav_order: 8
-redirect_from: /wip/2e/
+nav_order: 16
 ---
 
-# Second Edition
+# Bloodless Moon's Gaze
