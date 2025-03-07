@@ -2,7 +2,7 @@
 layout: default
 title: About the Example Party
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # About the Example Party

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Print Copies
-parent: Second Edition
+parent: Bloodless Moon's Gaze
 nav_order: 5
 ---
 

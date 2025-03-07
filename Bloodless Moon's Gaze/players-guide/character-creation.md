@@ -2,7 +2,7 @@
 layout: default
 title: Character Creation
 parent: Player's Guide
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Character Creation 

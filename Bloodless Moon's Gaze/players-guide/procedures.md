@@ -2,7 +2,7 @@
 layout: default
 title: Procedures
 parent: Player's Guide
-grand_parent: Second Edition
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Procedures

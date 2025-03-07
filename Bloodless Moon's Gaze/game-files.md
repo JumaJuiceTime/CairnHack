@@ -1,6 +1,6 @@
 ---
 title: Game Files
-parent: Second Edition
+parent: Bloodless Moon's Gaze
 nav_order: 6
 ---
 
