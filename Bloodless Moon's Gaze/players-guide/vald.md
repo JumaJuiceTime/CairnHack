@@ -5,6 +5,12 @@ parent: Player's Guide
 grand_parent: Bloodless Moon's Gaze
 ---
 
+# Bronze & Sorcery
+
+## Introduction
+
+Settlements are built near water, rivers and the sea...
+
 # Vald
 
 ## Introduction
