@@ -15,10 +15,10 @@ grand_parent: Bloodless Moon's Gaze
 | ----------------------------- | --- |
 | Shield (+1 Armor)             | 10  |
 | Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+| Kardiophylax (+1 Armor)       | 15  |
+| Linothorax (1 Armor, _bulky_) | 20  |
+| Cuirass & Greaves (2 Armor, _bulky_)  | 40  |
+| Panoply (3 Armor, _bulky_)    | 60  |
 
 ## Weapons
 
@@ -26,7 +26,7 @@ grand_parent: Bloodless Moon's Gaze
 | ----------------------------------------------------------- | --- |
 | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
 | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
+| Halberd, War Hammer, War Axe, etc. (d10 damage, _bulky_) | 20  |
 | Sling (d6 damage)                                           | 5   |
 | Bow (d6 damage, _bulky_)                                    | 20  |
 | Crossbow (d8 damage, _bulky_)                               | 30  |
