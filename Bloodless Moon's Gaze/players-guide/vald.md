@@ -14,7 +14,7 @@ The implied setting of Bloodless Moon's Gaze encompasses the domain of the white
 ## Bronze
 **Bronze** is beautiful and _Iron_ is next to nonexistant, coming only from the stars. This is no bronze age analogue. 
 
-_Iron_ contains the will of the stars. Myths and cults revere this star iron. Some cherish fragments in secret, but the ostentatious flaunt weapons and idols of _Iron_. 
+_Iron_ contains the will of the stars. Myths and cults revere this star iron. Some cherish sidereal fragments in secret, but the ostentatious flaunt weapons and idols of _Iron_. Any _Iron_ displlayed will draw attention.
 
 ## The Sea of Stars
 Named for the frequent shooting stars that impact the sea. The Sea of Stars fosters the trade that allows the cities of its shores to flourish. 
