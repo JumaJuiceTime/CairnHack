@@ -20,16 +20,6 @@ grand_parent: Bloodless Moon's Gaze
 | Cuirass & Greaves (2 Armor, _bulky_)  | 40  |
 | Panoply (3 Armor, _bulky_)    | 60  |
 
-
-|                               |     |
-| ----------------------------- | --- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Mail shirt (1 Armor, _bulky_) | 20  |
-| Mail hauberk (2 Armor, _bulky_)  | 40  |
-| Full kit (3 Armor, _bulky_)      | 60  |
-
 ## Weapons
 
 |                                                             |     |
