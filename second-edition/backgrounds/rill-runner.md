@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
 
-## Names
-
-Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
