@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
 
-## Names
-
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
