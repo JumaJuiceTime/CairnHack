@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
 
-## Names
-
-Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
