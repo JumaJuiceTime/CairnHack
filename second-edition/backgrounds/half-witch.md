@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
 
-## Names
-
-Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
-
 ## Starting Gear
  
 - 3d6 Gold Pieces
