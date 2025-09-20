@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
 
-## Names
-
-Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
