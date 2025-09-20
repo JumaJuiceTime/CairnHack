@@ -29,7 +29,7 @@ grand_parent: Second Edition
 | Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
 | Sling (d6 damage)                                           | 5   |
 | Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+| Composite Bow (d8 damage, _bulky_)                               | 30  |
 
 ## Transport
 
