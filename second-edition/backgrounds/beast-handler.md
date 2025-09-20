@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
 
-## Names
-
-Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
