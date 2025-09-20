@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
 
-## Names
-
-Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
