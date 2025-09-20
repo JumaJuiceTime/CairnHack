@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well. 
 
-## Names
-
-Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
