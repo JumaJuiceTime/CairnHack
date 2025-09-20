@@ -9,10 +9,6 @@ grand_parent: Second Edition
 
 > You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
 
-## Names
-
-Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
-
 ## Starting Gear
  
 - 3d6 Gold Pieces
