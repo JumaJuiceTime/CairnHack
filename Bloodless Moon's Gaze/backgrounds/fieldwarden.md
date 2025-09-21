@@ -9,16 +9,12 @@ grand_parent: Bloodless Moon's Gaze
 
 > Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
 
-## Names
-
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
+- Muscle Cuirass (1 Armor, _bulky_)
 - Sling (d6)
 - Hand Axe (d6)
 - Repellent (pick the type, 3 uses)
