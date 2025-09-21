@@ -15,8 +15,8 @@ grand_parent: Bloodless Moon's Gaze
 | ----------------------------- | --- |
 | Shield (+1 Armor)             | 10  |
 | Helmet (+1 Armor)             | 10  |
-| Kardiophylax (+1 Armor)       | 15  |
-| Linothorax (1 Armor, _bulky_) | 20  |
+| Linothorax, Kardiophylax (+1 Armor)       | 15  |
+| Muscle Cuirass, Pectorale (1 Armor, _bulky_) | 20  |
 | Cuirass & Greaves (2 Armor, _bulky_)  | 40  |
 | Panoply (3 Armor, _bulky_)    | 60  |
 
