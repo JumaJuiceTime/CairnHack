@@ -25,7 +25,7 @@ grand_parent: Bloodless Moon's Gaze
 |                                                             |     |
 | ----------------------------------------------------------- | --- |
 | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
+| Spear, Sword, Mace, Axe, Khopesh, etc. (d8 damage)            | 10  |
 | Pike, War Hammer, War Axe, etc. (d10 damage, _bulky_) | 20  |
 | Sling (d6 damage)                                           | 5   |
 | Bow (d6 damage, _bulky_)                                    | 20  |
