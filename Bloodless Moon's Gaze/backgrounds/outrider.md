@@ -9,18 +9,14 @@ grand_parent: Bloodless Moon's Gaze
 
 > Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
 
-## Names
-
-Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
-- Long Sword (d10, _bulky_)
-- Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
+- Long Spear (d10, _bulky_)
+- Linothorax (1 Armor)
+- Compound Bow (d8, _bulky_)
 - Spyglass
 
 ## What personal code or principle do you uphold? Roll 1d6:
