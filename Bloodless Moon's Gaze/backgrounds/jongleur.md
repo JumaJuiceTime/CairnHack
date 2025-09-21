@@ -9,10 +9,6 @@ grand_parent: Bloodless Moon's Gaze
 
 > What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
 
-## Names
-
-Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
@@ -20,7 +16,7 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 - Torch (3 uses) 
 - Costume
 - Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
+- Lucky Kardiophylax (+1 Armor)
 - Sling (d6)
 
 ## What happened at your final performance? Roll 1d6:
