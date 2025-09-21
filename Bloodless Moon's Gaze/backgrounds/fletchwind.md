@@ -9,10 +9,6 @@ grand_parent: Bloodless Moon's Gaze
 
 > You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
 
-## Names
-
-Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
@@ -20,7 +16,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 - Torch (3 uses) 
 - Bow (see table)
 - Serrated Knife (d6)
-- Boiled Leather (1 Armor)
+- Linothorax (1 Armor)
 - Heartroot Salve (restores 1d4 STR, 1 use)
 
 ## How did you earn your bow? Roll 1d6:
