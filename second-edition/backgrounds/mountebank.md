@@ -17,7 +17,7 @@ grand_parent: Second Edition
 - Cart (+4 slots, _bulky_ when pulled)
 - Trick Playing Cards 
 - Fancy Hat (_petty_)
-- Cane Sword (d6)
+- Sword (d6)
 
 ## How was your fraud exposed? Roll 1d6:
 
