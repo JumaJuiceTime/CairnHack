@@ -9,10 +9,6 @@ grand_parent: Bloodless Moon's Gaze
 
 > You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
 
-## Names
-
-Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
