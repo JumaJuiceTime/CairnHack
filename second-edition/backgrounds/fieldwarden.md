@@ -14,7 +14,7 @@ grand_parent: Second Edition
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
+- Muscle Cuirass (1 Armor, _bulky_)
 - Sling (d6)
 - Hand Axe (d6)
 - Repellent (pick the type, 3 uses)
