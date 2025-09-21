@@ -9,10 +9,6 @@ grand_parent: Bloodless Moon's Gaze
 
 > Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
 
-## Names
-
-Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
@@ -21,7 +17,7 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 - Cart (+4 slots, _bulky_ when pulled)
 - Trick Playing Cards 
 - Fancy Hat (_petty_)
-- Cane Sword (d6)
+- Sword (d6)
 
 ## How was your fraud exposed? Roll 1d6:
 
