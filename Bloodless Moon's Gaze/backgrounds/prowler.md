@@ -9,10 +9,6 @@ grand_parent: Bloodless Moon's Gaze
 
 > You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
 
-## Names
-
-Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
