@@ -9,18 +9,14 @@ grand_parent: Bloodless Moon's Gaze
 
 > Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
 
-## Names
-
-Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Lantern
 - Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- Long Spear (d10, _bulky_)
+- Linothorax (1 Armor)
 
 ## Why did you take the Oath?
 
