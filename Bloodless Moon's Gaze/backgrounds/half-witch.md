@@ -7,11 +7,7 @@ grand_parent: Bloodless Moon's Gaze
 
 # Half Witch
 
-> Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
-
-## Names
-
-Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
+> Born of both the mortal world and the godly, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
 
 ## Starting Gear
  
@@ -20,7 +16,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 - Torch (3 uses) 
 - Spellbook (Thicket: A thicket of trees and dense
 brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
-- Iron Dagger (d6)
+- Dagger (d6)
 - Herbs Pouch (restore 1 STR, 3 uses)
 - Ghillie Suit
 
