@@ -9,10 +9,6 @@ grand_parent: Bloodless Moon's Gaze
 
 > You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
 
-## Names
-
-Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
-
 ## Starting Gear
 
 - 3d6 Gold Pieces
@@ -21,7 +17,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 - Vestments of the Order (_petty_)
 - Blessed Tinctures
 - Silver Knife (d6)
-- Crossbow (d8, _bulky_)
+- Compound Bow (d8, _bulky_)
 
 ## To which order do you belong? Roll 1d6:
 
