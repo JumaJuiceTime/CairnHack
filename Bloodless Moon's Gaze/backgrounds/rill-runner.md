@@ -19,7 +19,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 - Rations (3 uses)
 - Torch (3 uses) 
 - Water Shoes
-- Brigandine (1 Armor, _bulky_)
+- Muscle Cuirass (1 Armor, _bulky_)
 - Compass
 - Dagger (d6)
 
