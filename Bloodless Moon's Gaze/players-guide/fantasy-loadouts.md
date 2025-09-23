@@ -2,8 +2,8 @@
 layout: default
 title: Fantasy Loadouts
 parent: Third Party
-grand_parent: Hacks
-redirect_from: /more-content/fantasy-loadouts/
+parent: Player's Guide
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Fantasy Starting Loadouts

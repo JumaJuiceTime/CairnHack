@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Classic Classes
-parent: Third Party
-grand_parent: Hacks
+parent: Player's Guide
+grand_parent: Bloodless Moon's Gaze
 ---
 
 # Classic Classes
