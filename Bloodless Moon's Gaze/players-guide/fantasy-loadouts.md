@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Fantasy Loadouts
-parent: Third Party
 parent: Player's Guide
 grand_parent: Bloodless Moon's Gaze
 ---
