@@ -9,9 +9,9 @@ grand_parent: Bloodless Moon's Gaze
 
 ## Introduction
 
-Within the Bloodless Moon’s gaze civilization flourishes. The celestial sea is the cradle of mankind. Cities to empires prosper on its shores. Bronze gleams beautifully, as if a gift from the gods. Iron comes only from the heavens and speaks against the gods. Sinister cults and creatures of legend put your way of life at risk. You pick up your spear in daring challenge.
+Within the Blood Moon’s gaze civilization flourishes. The celestial sea is the cradle of mankind. Cities to empires prosper on its shores. Bronze gleams beautifully, as if a gift from the gods. Iron comes only from the heavens and speaks against the gods. Sinister cults and creatures of legend put your way of life at risk. You pick up your spear in daring challenge.
 
-The Bloodless Moon's Gaze encompasses the domain of the white moon. The lands beyond are known as the moonless realms. A more accurate name would be the bloody realms, for the Blood Moon sees all. Adventures will feature Bronze, Moons, and Gods. 
+The Blood Moon's Gaze encompasses the domain of the red moon. The lands beyond are known as the bloodless realms. Adventures will feature Bronze, Moons, and Gods. 
 
 ## Bronze
 **Bronze** is beautiful and _Iron_ is next to nonexistant, coming only from the stars. 
