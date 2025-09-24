@@ -14,7 +14,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 
 ## 11. Acrobat
 - Balanced Pole (d8, bulky)
-- Chakram (d6)
+- Throwing Dagger (d6)
 - Exotic Clothing
 - Two 10' Ribbons
 - Small Bell
@@ -29,8 +29,8 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 - Padded Boots
 
 ## 13. Barbarian
-- Tabar (d10, bulky)
-- Greatsword (d10, bulky)
+- Long Spear (d10, bulky)
+- Greataxe (d10, bulky)
 - Hide Coat (1 Armor)
 - Jawbone Cap (1 Armor)
 - Haruspex Totem
@@ -41,7 +41,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 - Dandy Clothing
 - Caltrops
 - Book of Lore
-- Bagpipes
+- Lyre
 - Incense
 
 ## 15. Beast Master
@@ -125,10 +125,10 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 - 25' Silken Rope
 
 ## 33. Fighter
-- Glaive (d10, bulky)
+- Long Spear (d10, bulky)
 - Scimitar (d8)
 - Shortbow (d6)
-- Splintmail (1 Armor)
+- Triple-disc Cuirass (1 Armor)
 - Tobacco Pouch & Pipe
 - Dice Set
 
@@ -142,7 +142,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 
 ## 35. Gnome
 - Big Bomb (d8, blast, one use)
-- Gambeson (1 Armor)
+- Linothorax (1 Armor)
 - Pot of Glue
 - Precision Pliers
 - Spyglass
@@ -175,7 +175,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 ## 43. Half-Orc
 - Broad Axe (d8)
 - Crossbow (d8, bulky)
-- Breastplate (2 Armor, bulky)
+- Muscle Cuirass & Greaves (2 Armor, bulky)
 - 25' Hempen Rope
 - Cook Pots
 - Crowbar
@@ -198,8 +198,8 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 
 ## 46. Knight
 - Longsword (d8)
-- Ornate Mail (2 Armor, bulky)
-- Kite Shield (1 Armor)
+- Ornate Cuirass & Greaves (2 Armor, bulky)
+- Round Shield (1 Armor)
 - Heraldic Cape
 - Letter of Marque
 - Riding Horse (+2 Slots, 4 HP, Kick (d6))
