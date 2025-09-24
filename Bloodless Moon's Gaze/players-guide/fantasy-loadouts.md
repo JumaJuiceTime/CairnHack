@@ -174,7 +174,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 
 ## 43. Half-Orc
 - Broad Axe (d8)
-- Crossbow (d8, bulky)
+- Compound Bow (d8, bulky)
 - Muscle Cuirass & Greaves (2 Armor, bulky)
 - 25' Hempen Rope
 - Cook Pots
@@ -196,8 +196,8 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 - Spellbook (_Mirrorwalk_ or _Objectify_)
 - Spellbook (_Auditory Illusion_ or _Visual Illusion_)
 
-## 46. Knight
-- Longsword (d8)
+## 46. Hoplite
+- Spear (d8)
 - Ornate Cuirass & Greaves (2 Armor, bulky)
 - Round Shield (1 Armor)
 - Heraldic Cape
