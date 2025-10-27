@@ -37,6 +37,6 @@ grand_parent: Blood Moon's Gaze
 | 2   | **Sponge**    | Supposedly made from the remains of a rare sea creature. It never seems to dry out.                                        |
 | 3   | **Pulley**    | Great for moving gravestones, rocks, or even bodies.                                                                       |
 | 4   | **Incense**   | Perfect for rituals or to keep the flies at bay. Cools the blood.                                                         |
-| 5   | **Crowbar**   | d6 damage. Sometimes you just need to get the damn thing open!                                                             |
+| 5   | **Prybar**   | d6 damage. Sometimes you just need to get the damn thing open!                                                             |
 | 6   | **Repellent** | Powerful stuff. Its faded label makes it unclear what it is actually _meant_ to repel, though. Perhaps everything. 3 uses. |
 
