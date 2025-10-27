@@ -14,7 +14,7 @@ grand_parent: Blood Moon's Gaze
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses) 
-- Iron Pot
+- Copper Pot
 - Root Knife (d6)
 - Healing Salve (restore 1d4 STR, 1 use)
 - Twine Bauble (_petty_, _Ward_ once per day)
