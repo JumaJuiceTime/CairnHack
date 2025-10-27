@@ -11,23 +11,23 @@ grand_parent: Blood Moon's Gaze
 
 - First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
 - Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/Blood%20Moon's%20Gaze/players-guide/marketplace) as well.
+- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](</Blood Moon's Gaze/players-guide/marketplace>) as well.
 
 ## Backgrounds
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
 | **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/Blood%20Moon's%20Gaze/backgrounds/aurifex)               | **11** | [Half-Witch](/Blood%20Moon's%20Gaze/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/Blood%20Moon's%20Gaze/backgrounds/barber-surgeon) | **12** | [Hexenbane](/Blood%20Moon's%20Gaze/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/Blood%20Moon's%20Gaze/backgrounds/beast-handler)   | **13** | [Jongleur](/Blood%20Moon's%20Gaze/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/Blood%20Moon's%20Gaze/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/Blood%20Moon's%20Gaze/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/Blood%20Moon's%20Gaze/backgrounds/cutpurse)             | **15** | [Marchguard](/Blood%20Moon's%20Gaze/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/Blood%20Moon's%20Gaze/backgrounds/fieldwarden/)      | **16** | [Mountebank](/Blood%20Moon's%20Gaze/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/Blood%20Moon's%20Gaze/backgrounds/fletchwind)         | **17** | [Outrider](/Blood%20Moon's%20Gaze/backgrounds/outrider)         |
-| **8**   | [Foundling](/Blood%20Moon's%20Gaze/backgrounds/foundling)           | **18** | [Prowler](/Blood%20Moon's%20Gaze/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/Blood%20Moon's%20Gaze/backgrounds/fungal-forager) | **19** | [Rill Runner](/Blood%20Moon's%20Gaze/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/Blood%20Moon's%20Gaze/backgrounds/greenwise/)          | **20** | [Scrivener](/Blood%20Moon's%20Gaze/backgrounds/scrivener)       |
+| **1**   | [Aurifex](</Blood Moon's Gaze/backgrounds/aurifex>)               | **11** | [Half-Witch](</Blood Moon's Gaze/backgrounds/half-witch>)     |
+| **2**   | [Barber-Surgeon](</Blood Moon's Gaze/backgrounds/barber-surgeon>) | **12** | [Hexenbane](</Blood Moon's Gaze/backgrounds/hexenbane>)       |
+| **3**   | [Beast Handler](</Blood Moon's Gaze/backgrounds/beast-handler>)   | **13** | [Jongleur](</Blood Moon's Gaze/backgrounds/jongleur/>)        |
+| **4**   | [Bonekeeper](</Blood Moon's Gaze/backgrounds/bonekeeper/>)        | **14** | [Kettlewright](</Blood Moon's Gaze/backgrounds/kettlewright>) |
+| **5**   | [Cutpurse](</Blood Moon's Gaze/backgrounds/cutpurse>)             | **15** | [Marchguard](</Blood Moon's Gaze/backgrounds/marchguard/>)    |
+| **6**   | [Fieldwarden](</Blood Moon's Gaze/backgrounds/fieldwarden/>)      | **16** | [Mountebank](</Blood Moon's Gaze/backgrounds/mountebank>)     |
+| **7**   | [Fletchwind](</Blood Moon's Gaze/backgrounds/fletchwind>)         | **17** | [Outrider](</Blood Moon's Gaze/backgrounds/outrider>)         |
+| **8**   | [Foundling](</Blood Moon's Gaze/backgrounds/foundling>)           | **18** | [Prowler](</Blood Moon's Gaze/backgrounds/prowler>)           |
+| **9**   | [Fungal Forager](</Blood Moon's Gaze/backgrounds/fungal-forager>) | **19** | [Rill Runner](</Blood Moon's Gaze/backgrounds/rill-runner>)   |
+| **10**  | [Greenwise](</Blood Moon's Gaze/backgrounds/greenwise/>)          | **20** | [Scrivener](</Blood Moon's Gaze/backgrounds/scrivener>)       |
 
 ## Attributes, Hit Protection, and Traits 
 
@@ -37,14 +37,14 @@ grand_parent: Blood Moon's Gaze
 
 ## Attributes
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
+- Player Characters have just three Attributes: (<**Strength (STR>**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
 - Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
 - Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
 
 ## Hit Protection
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/Blood%20Moon's%20Gaze/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/Blood%20Moon's%20Gaze/players-guide/core-rules#scars) table.
+- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](</Blood Moon's Gaze/players-guide/core-rules#healing--recovery>). 
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](</Blood Moon's Gaze/players-guide/core-rules#scars>) table.
 
 ## Inventory
 
