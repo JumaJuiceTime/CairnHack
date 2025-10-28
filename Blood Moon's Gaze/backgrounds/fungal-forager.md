@@ -16,7 +16,7 @@ grand_parent: Blood Moon's Gaze
 - Sharpened Trowel (d6)
 - Candle Helmet (+1 Armor, dim, 6 uses)
 - Rope (25ft)
-- Metal Pail
+- Bronze Pail
 
 ## What strange fungus did you discover? Roll 1d6:
 
