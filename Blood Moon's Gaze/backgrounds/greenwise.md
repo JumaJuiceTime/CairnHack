@@ -38,6 +38,6 @@ _Ward_: A silver circle 50ft across appears on the ground. Choose one species th
 | **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                              |
 | **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
 | **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |
-| **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
+| **4** | **Wisp Lantern** | Caged in wrought brass, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
 | **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
 | **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
