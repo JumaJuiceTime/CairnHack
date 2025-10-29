@@ -28,7 +28,7 @@ grand_parent: Blood Moon's Gaze
 | **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **brass helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
 | **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of [Mirrorwalk](</Blood Moon's Gaze/players-guide/spellbooks>) (_petty_).                      |
 | **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Spear** (d10, _bulky_) and a **Muscle Cuirass** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Compound Bow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+| **6** | You scavenge raw tin, copper, and bronze from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Compound Bow** (d8 damage, _bulky_), and a **Saw** (d6).           |
 
 ## What never fails to get you out of trouble? Roll 1d6:
 
