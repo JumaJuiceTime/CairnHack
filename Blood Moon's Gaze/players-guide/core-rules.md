@@ -118,7 +118,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 - Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
 - Ammunition is not tracked unless otherwise specified. 
 
-- Phalanx
+### Phalanx
 3 or more allies may form a phalanx.
 If they all bear shields (not bucklers) then
 they gain an additional point of Armour. If
