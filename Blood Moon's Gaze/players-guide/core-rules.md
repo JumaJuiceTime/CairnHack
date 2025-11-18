@@ -158,6 +158,18 @@ If a die of 8 or higher is used in melee then a **Strong Gambit** is performed a
 - **No Save** is granted to the target 
 - **Greater effect** such as disarming an item, breaking a wooden shield or weapon, or removing a helm. This does not increase the Damage from Bolster.
 
+## Reactions
+Before damage is rolled, a Player Character under attack has 4 options: 
+- **Fight back**. Choose one attacker and deal your damage against it - after you’ve taken the incoming damage. 
+- **Block**. Any incoming fast or normal attacks become Impaired. Blocking gives you 1 Fatigue. 
+- **Dodge**. Any incoming strong or normal attacks become Impaired. Dodging gives you 1 Fatigue. 
+- **Parry**. Choose one attacking opponent that you can attack in return. 
+  - If you roll higher attack damage than they do, their dice roll is invalidated, and you deal your damage straight to their STR. 
+  - If the opponent rolls higher, the damage is dealt to your STR instead. 
+  - If the two rolls are equal, both weapons bounce off each other with a satisfying twing! and a rain of sparks. No damage is done to either party.
+Fatigue is removed upon resting for the night.
+
+
 ## Scars
 
 If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
