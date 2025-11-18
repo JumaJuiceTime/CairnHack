@@ -86,7 +86,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 ### Attack Modifiers
 
 - If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
+- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll +1d8 damage in addition to their normal die.
 - Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
 - If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
 
@@ -139,6 +139,43 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+
+## Feats
+After using a Feat the user must pass a Save or become Strained, unable to perform Feats until they have a breather. Each Feat can only be used once per Attack by each combatant involved. 
+
+### SMITE - _Release your fury_ 
+- Use before rolling a melee Attack.
+- The Attack gains either +d12 or Blast. 
+- Pass a Strength Save or become Strained. 
+
+### FOCUS - _Create an opening to exploit_ 
+- Use after rolling an Attack. 
+- Perform a Gambit without using a die. 
+- Pass an Agility Save or become Strained. 
+
+### DENY - _Rebuff an attack before it lands_ 
+- Use after an Attack roll against you or an ally within arm’s reach. 
+- Discard one Attack die. 
+- Pass a Spirit Save or become Strained. 
+
+
+## Gambits 
+Attackers may discard any number of Attack dice of 4 or higher to perform Gambits, each causing one of the effects below. The affected foe must be a target of the original attack. 
+
+For Gambits other than Bolster and Move the target receives a Strength Save to ignore the effect. 
+- **Bolster** the Attack for +1 total Damage 
+- **Move** after the Attack, even if you already moved or are unable to move 
+- **Repel** a foe away from you 
+- **Stop** a foe from moving next turn 
+- **Impair** a weapon on their next turn 
+- **Trap** a shield until your next turn 
+- **Dismount** a foe 
+- **Other** effect of a similar level of impact 
+
+If a die of 8 or higher is used in melee then a **Strong Gambit** is performed and the attacker chooses **one** of the following: 
+- **No Save** is granted to the target 
+- **Greater effect** such as disarming an item, breaking a wooden shield or weapon, or removing a helm. This does not increase the Damage from Bolster.
+
 
 ## Magic
 
