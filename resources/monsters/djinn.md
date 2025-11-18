@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Djinn
 
-15 HP, 16 STR, 16 DEX, 18 WIL, elemental fists (d10+d10), _detachment_
+15 HP, 16 STR, 16 AGL, 18 PRS, elemental fists (d10+d10), _detachment_
 
 - Magical, intelligent extraplanar beings. Can take any form, or none at all.
 - Can conjure mundane objects, sounds, and visions from nothing.
-- **Whirlwind**: Transforms into a building-sized vortex, destroying anything in its path (DEX save or take d12 STR damage). 
+- **Whirlwind**: Transforms into a building-sized vortex, destroying anything in its path (AGL save or take d12 STR damage). 

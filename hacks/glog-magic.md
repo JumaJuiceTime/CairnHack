@@ -29,18 +29,18 @@ To use [GLOG Magic](http://goblinpunch.blogspot.com/2016/05/the-glog.html) in Ca
 |5|The Spell's effects are reversed; the Warden will tell you how. Take an additional Fatigue.|
 |6|Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for short bursts.|
 |7|You are [deprived](/cairn-srd/#deprivation--fatigue). After recovery, roll 1d6. If the total is higher than your max HP, take the new result.|
-|8|You take 1d4 WIL damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max WIL, take the new result.|
+|8|You take 1d4 PRS damage when casting spells for the next 24 hours. Afterwards roll 3d6. If the total is higher than your max PRS, take the new result.|
 |9|The spell turns your skin a dark shade of purple, and makes you invisible in the moonlight. Your eyes however glow a bright yellow at night.|
 |10|You become insubstantial for 1d4 hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.|
-|11|You suffer horrible arcane burns; lose 1d4 WIL. From now on you can add +1 **Magic Dice** to a spell's [dice] (use a die of a different color). If it results in a 4-6 you lose 1 WIL.|
+|11|You suffer horrible arcane burns; lose 1d4 PRS. From now on you can add +1 **Magic Dice** to a spell's [dice] (use a die of a different color). If it results in a 4-6 you lose 1 PRS.|
 |12|The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that provides +1 Armor (normal limits still apply).|
 |13|Your **Grimoire** is damaged and unusable. Creating a new **Grimoire** from its remains restores the original spells as well.|
 |14|Instead of Fatigue, the spell causes magical tumors to fill their respective slots. They can only be removed by a specialized healer. Upon recovery, you are able to ignore a single Fatigue taken from spellcasting. If the spell did not cause Fatigue, you are [deprived](/cairn-srd/#deprivation--fatigue).|
-|15|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your WIL (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
+|15|Arcane energies wrack your body as a piece of your soul is transferred into your **Grimoire**. You lose half your PRS (rounded down). Your **Grimoire** now appears in any form you wish and takes no space in inventory. It cannot be destroyed except by your own death, and vice-versa.|
 |16|You permanently lose 1d4 STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 Armor, although fire does enhanced damage against you. You can only feed by photosynthesis.|
 |17|You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn't focus on you, you are invisible. You fail any attempts at persuasion.|
 |18|One your hands becomes fused with your **Grimoire**. You can never let go of it, however it only takes up 1 inventory slot. You can fire a bolt of arcane energy from that hand that deals 1d6 damage. If your hand is cut off, you can never cast spells again.|
-|19|Large ugly wings sprout from your back, ripping through whatever you are wearing. You gain 1d4 DEX and can fly. You cannot wear armor or a backpack, and have a only 5 inventory slots.|
+|19|Large ugly wings sprout from your back, ripping through whatever you are wearing. You gain 1d4 AGL and can fly. You cannot wear armor or a backpack, and have a only 5 inventory slots.|
 |20|You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it's coming for you, and it's mad as hell. |
 |21|An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.|
 |22|Your body becomes a vessel of pure magical energy. You no longer need to consume food, water or air. Fatigue and Mishaps from casting spells does not affect you, but instead you lose 1d4 STR on a result of 5-6. At STR 0 you become a spell (ask the Warden which). You can smell magic.|

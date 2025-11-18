@@ -13,11 +13,11 @@ Detachments are large groups of enemies treated as a single entity. They are mor
 
 ## Example
 
-> The party is setting up camp deep in the forest, adjacent to a modest waterfall. It is nearly nightfall, and everyone is on high alert. Unbeknownst to the party, a colony of Traitor-Rats [3 HP, 5 STR, 15 DEX, 4 WIL, bite (d6), _detachment_] makes its home here.
+> The party is setting up camp deep in the forest, adjacent to a modest waterfall. It is nearly nightfall, and everyone is on high alert. Unbeknownst to the party, a colony of Traitor-Rats [3 HP, 5 STR, 15 AGL, 4 PRS, bite (d6), _detachment_] makes its home here.
 
 **Warden**: _"Just as the sun finally dips behind the trees, you each hear an unusual noise, not unlike the tsk-tsk-tsk of an overbearing uncle. As you listen, it begins to grow both in volume and tempo, then quickly becomes somewhat uncomfortable to listen to. As you survey the perimeter of the campsite, you see dozens of small, rat-like creatures with enormous eyes watching your party. They appear to be the source of the strange sound, and they are moving closer! By the way, we're going to treat these creatures as a detachment until further notice."_
 
-**Freya**: _"Will we need to make DEX saves in order to attack before these things? Assuming they intend to do us harm, that is."_
+**Freya**: _"Will we need to make AGL saves in order to attack before these things? Assuming they intend to do us harm, that is."_
 
 **Warden**: _"No, you have enough time to make the first move."_
 
@@ -37,7 +37,7 @@ Detachments are large groups of enemies treated as a single entity. They are mor
 
 **Wolfram**: _"Bingo. That's the one. A careful shot, that's all I need."_
 
-**Warden**: _"Standing amongst all the creatures, the sound becomes unbearable for both Freya and Wolfram. Please make a WIL save, each of you."_
+**Warden**: _"Standing amongst all the creatures, the sound becomes unbearable for both Freya and Wolfram. Please make a PRS save, each of you."_
 
 **Freya**: _"Uh oh. I rolled a 15, a fail."_
 
@@ -47,7 +47,7 @@ Detachments are large groups of enemies treated as a single entity. They are mor
 
 **Freya**: _"Eek. Do I lose my next turn?"_
 
-**Warden**: _"That's right, but you can try to succeed at a WIL save to snap out of it. A few of the creatures nearby begin to nibble at your clothes as you writhe around. Finally, they attack both you and Wolfram!"_
+**Warden**: _"That's right, but you can try to succeed at a PRS save to snap out of it. A few of the creatures nearby begin to nibble at your clothes as you writhe around. Finally, they attack both you and Wolfram!"_
 
 > As a detachment, the Traitor-Rats have both the _blast_ property and deal _enhanced_ damage. The Warden rolls a d12 twice, dealing 1 damage to Freya and 6 to Wolfram.
 
@@ -55,7 +55,7 @@ Detachments are large groups of enemies treated as a single entity. They are mor
 
 **Wolfram**: "_That's OK, because there won't be a next time! I take aim at the taller creature and fire. I realize I have to roll a d4, but that's the best we've got!"_
 
-**Freya**: "_All I can do is make a WIL save... and it's a success! Phew."_
+**Freya**: "_All I can do is make a PRS save... and it's a success! Phew."_
 
 **Lucius**: _"I rush towards Freya and try to drag her out of that mess."_
 

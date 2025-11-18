@@ -15,7 +15,7 @@ title: Library Beneath the Sands Conversion
 
 Burnt Body, animated by flame
 
-4 HP, 8 DEX, 16 CHA, grapples (failed DEX save) then bites (d6)
+4 HP, 8 AGL, 16 CHA, grapples (failed AGL save) then bites (d6)
 
 - Adjacent characters take d4 fire damage from the heat charred
 - Fire damage heals
@@ -26,7 +26,7 @@ Large, horned, beastly humanoid fire elemental.
 
 9 HP, 3 Armour, 12 STR, 12 CHA, fists (d8 BLAST)
 
-- Flame circle, all creatures within 15’ failing a DEX save take d6 fire damage
+- Flame circle, all creatures within 15’ failing a AGL save take d6 fire damage
 - Creatures consumed by the flame circle arise as the efreet's charred servants
 - Fire damage heals
 
@@ -34,7 +34,7 @@ Large, horned, beastly humanoid fire elemental.
 
 Bandaged humanoid with flames leaking from between the gaps
 
-7 HP, 12 STR, 8 DEX, 6 CHA, fists (d6)
+7 HP, 12 STR, 8 AGL, 6 CHA, fists (d6)
 
 - Ancient Curse, upon first sight characters make a CHA save, or lose d4 CHA
 
@@ -42,13 +42,13 @@ Bandaged humanoid with flames leaking from between the gaps
 
 Humanoid statue with the head of an ibis.
 
-6 HP, Armor 1, 14 STR, 16 CHA slam (d8, knocked prone on a DEX save fail)
+6 HP, Armor 1, 14 STR, 16 CHA slam (d8, knocked prone on a AGL save fail)
 
 ### Screaming Scorpion (Adult)
 
 Giant scorpion with an adult human’s face.
 
-6 HP, 1 Armour, 12 DEX, 8 CHA, pincers (d6+d4), target grappled on a failed DEX save)
+6 HP, 1 Armour, 12 AGL, 8 CHA, pincers (d6+d4), target grappled on a failed AGL save)
 
 - Stings (d6) grappled characters, paralysed on failed STR save, death after 24 hours
 - Can climb
@@ -57,7 +57,7 @@ Giant scorpion with an adult human’s face.
 
 Scorpion with a baby human’s face.
 
-3 HP, 6 STR, 12 DEX, 6 CHA, pincers (d4+d4)
+3 HP, 6 STR, 12 AGL, 6 CHA, pincers (d4+d4)
 
 - Stings (d4+d6) characters that are otherwise distracted
 - Can climb

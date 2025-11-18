@@ -13,7 +13,7 @@ redirect_from: /resources/adventure-conversions/lair-of-the-lamb/
 ## Character generation
 
 ### Ability scores
-All 12 peasants start play very dehydrated. For each of STR, DEX and WIL, in order roll 2d6 for a total of 2-12. If a peasant can get hydrated, for each Ability Score roll 1d6 and add to its score for a total of 3-18.
+All 12 peasants start play very dehydrated. For each of STR, AGL and PRS, in order roll 2d6 for a total of 2-12. If a peasant can get hydrated, for each Ability Score roll 1d6 and add to its score for a total of 3-18.
 
 ### Profession
 Roll a d100 on the Profession table on page six for each peasant.
@@ -31,12 +31,12 @@ One lucky peasant starts with a knife (d6). Without a backpack, each person can 
 The 12 peasants starting in the dungeon share a debt of 10000s. They were convicted for the crime of breaking a taboo they were not aware of, and were unable to pay their fine. Escaping alive is probably the top priority now though.
 
 ## Creatures
-Only stats converted to Cairn, additional information is given in Lair of the Lamb. Values for STR, DEX and WIL are assumed to be 10 if not listed.
+Only stats converted to Cairn, additional information is given in Lair of the Lamb. Values for STR, AGL and PRS are assumed to be 10 if not listed.
 
 ## Part 1: Lair of the Lamb
 
 #### The Lamb
-12 HP, Armor 2, 18 STR, 5 DEX, bite (d8) and crush (d8)
+12 HP, Armor 2, 18 STR, 5 AGL, bite (d8) and crush (d8)
 - Immunity to Acid
 - Can climb as a slug
 - Phobia: Afraid of bright light and fire
@@ -50,7 +50,7 @@ Only stats converted to Cairn, additional information is given in Lair of the La
 
 #### Father Bastoval
 7 HP, 1 Armor, warfork (d8)
-- Spell: Hold Person - Paralyze one humanoid until WIL save
+- Spell: Hold Person - Paralyze one humanoid until PRS save
 - Spell: Haste - One creature moves at double speed
 - Spell: Scry - Spies on a subject from distance
 
@@ -68,8 +68,8 @@ Only stats converted to Cairn, additional information is given in Lair of the La
 
 
 #### Vandress
- 6 HP, 14 WIL, claw (d8)
-- Spell: Confusion - WIL save, or target behaves randomly
+ 6 HP, 14 PRS, claw (d8)
+- Spell: Confusion - PRS save, or target behaves randomly
 - Spell: Cone of mutilation - d10 slashing, Blast
 
 ## Part 2: Gallery of the Ghouls
@@ -79,16 +79,16 @@ Only stats converted to Cairn, additional information is given in Lair of the La
 
 #### Ghoul (Jasper or Luntz or Shawson)
 6 HP, 1 Armor, claws (1d6),
-- Agony: on Critical Damage target loses an additional 1d4 WIL.
+- Agony: on Critical Damage target loses an additional 1d4 PRS.
 
 #### Lantern Worm
-9 HP, DEX 5, slam (d6)
+9 HP, AGL 5, slam (d6)
 - Lantern: Sharp light in narrow cone, _impaired_ if looked at directly.
-- Eat light: target light source explodes, doing 1d6 fire damage (_blast_) and blindness to holder. Everyone else temporarily blinded if they fail WIL save, sight back after 10 min. After eating light, becomes brighter and retreats after eating all light sources.
+- Eat light: target light source explodes, doing 1d6 fire damage (_blast_) and blindness to holder. Everyone else temporarily blinded if they fail PRS save, sight back after 10 min. After eating light, becomes brighter and retreats after eating all light sources.
 - Stonemeld: can be become liquid and flow through stone.
 
 #### Armored Isopod
-3 HP, 2 Armor, 5 DEX, bite (d6)
+3 HP, 2 Armor, 5 AGL, bite (d6)
 - Curling up: Attacks are _impaired_ (d4) against it.
 
 #### Ancient Apparatus of Anguish
@@ -98,14 +98,14 @@ Only stats converted to Cairn, additional information is given in Lair of the La
 - When STR is reduced, will start bleeding.
 
 #### Spider Crab
-15 HP, 1 Armor, 5 DEX, claw (d8)
+15 HP, 1 Armor, 5 AGL, claw (d8)
 - On critical damage target must save or be caught in claws.
 
 ## Room effects
 -Only the conversion of mechanics from room descriptions. All other room contents apply.
 
 #### 12 Abacus mural
-- DEX save to avoid dying.
+- AGL save to avoid dying.
 
 #### 17 Altar
 - Yellow mold explosion: Reduce STR by d6.
@@ -118,14 +118,14 @@ Only stats converted to Cairn, additional information is given in Lair of the La
 
 #### 46 Daylight
 - Grappling hook: STR save
-- Climbing the slick walls: DEX save
+- Climbing the slick walls: AGL save
 
 
 ## Magic items / treasure
 #### Skull of Davok
-- Absorb flesh: Reduce WIL by d20
+- Absorb flesh: Reduce PRS by d20
 - Spell: Ignite - 3d6 fire damage to target
-- Polymorph: WIL save or target is transformed into harmless animal
+- Polymorph: PRS save or target is transformed into harmless animal
 - Dealing 6 damage to it in a single round will stun it for 1 minute [reduced from 10 damage due to multiple attackers rule]
 
 #### Crysmere blade

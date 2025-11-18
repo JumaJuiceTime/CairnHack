@@ -12,10 +12,10 @@ title: The Bruja, the Beast, and the Barrow
 
 **Marble Eye**
 
-8 HP, 2 Armor (Eldritch Pact), 8 STR, 12 WIL, athame (d6), evil eye, or maleficence (d8, Blast)
+8 HP, 2 Armor (Eldritch Pact), 8 STR, 12 PRS, athame (d6), evil eye, or maleficence (d8, Blast)
 - Can cure both natural and supernatural afflictions with a day-long ritual and sufficient motivation.  
 - **Evil Eye**: Target (anyone in line of sight, or that the caster possesses the blood of) is incapacitated as their body is wracked with pain and various illnesses. Upon recovery, the target suffers 1d6 ability damage (Die of Fate - 3 and under: weakest ability score. 4 and over: player choice). This ability damage cannot be recovered through normal means.   
-- **Upon Death**: Any who strikes a killing blow against Marble Eye must make a WIL save or die as their body suffers from the rapid onset of leprosy.
+- **Upon Death**: Any who strikes a killing blow against Marble Eye must make a PRS save or die as their body suffers from the rapid onset of leprosy.
 
 ## Pickbone Mound 
 
@@ -26,13 +26,13 @@ title: The Bruja, the Beast, and the Barrow
 ### 5) False Tomb
 
 **Biter**
-- d8 damage. Attacks with it are considered magical, but it is cursed to deal d4 STR damage upon a roll of 1 (this triggers a Critical Damage save). If thrown, the wielder must pass a DEX save or be fatally impaled.
+- d8 damage. Attacks with it are considered magical, but it is cursed to deal d4 STR damage upon a roll of 1 (this triggers a Critical Damage save). If thrown, the wielder must pass a AGL save or be fatally impaled.
 
 ### 6) Guardian Path
 
 **Stone Guardian**
 
-7 HP, 3 Armor, 15 STR, 6 DEX, stone weapon (d10)
+7 HP, 3 Armor, 15 STR, 6 AGL, stone weapon (d10)
 - Immune to non-bludgeoning missile and melee attacks, which shatter on contact. All other mundane attacks are *impaired*.
 - At the beginning of their action in a round, they regenerate 1 STR damage. They always act last. 
 - **Critical Damage**: The Guardian brings the full weight of their stone weapon to bear on their victim, dealing an additional d8 STR damage. Characters reduced to 0 STR are rendered down to a messy pulp.
@@ -41,11 +41,11 @@ title: The Bruja, the Beast, and the Barrow
 
 **Rolling Calf**
 
-9 HP, 2 Armor, 14 STR, 12 DEX, WIL 18, burning fists (d8+d8), flagstone (d6)
+9 HP, 2 Armor, 14 STR, 12 AGL, PRS 18, burning fists (d8+d8), flagstone (d6)
 - At the beginning of their action in a round, they regenerate 1 STR damage (even if reduced to 0 STR) unless their skull is destroyed  by fire or holy water.
 - Immune to all forms of magical damage and effects, including magical weapons. Undead.
 - Mage's Bane: Being within striking distance of Rolling Calf causes all ongoing magical effects to end. Any magical objects (both spellbooks and relics) in a character's possession are treated as if they have been used that round for the purposes of negative consequences (gaining Fatigue and expending charges, respectively).  
-- **Critical Damage**: The victim suffers 1d6 WIL damage and is left with a brand in the shape of a bull's skull that, if they survive, will allow Rolling Calf to track the victim wherever they go.
+- **Critical Damage**: The victim suffers 1d6 PRS damage and is left with a brand in the shape of a bull's skull that, if they survive, will allow Rolling Calf to track the victim wherever they go.
 
 ### 8) Warlord's Tomb
 

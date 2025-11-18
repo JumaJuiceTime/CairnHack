@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Medusa
 
-10 HP, 8 STR, 12 DEX, 16 WIL, snake bite (d8)
+10 HP, 8 STR, 12 AGL, 16 PRS, snake bite (d8)
 
 - Magical creatures that resemble humanoid women, but have snakes in place of hair. Proud and territorial. 
 - **Gaze**: Those who look into the eyes of the Medusa are quickly turned to stone (its reflection is harmless). Attacks against it are almost normally _impaired_.

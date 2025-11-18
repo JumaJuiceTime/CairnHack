@@ -50,7 +50,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 - Furs (1 Armor)
 - Whistle
 - Animal Charm
-- Wolf (2 HP, 12 WIL, Bite (d6))
+- Wolf (2 HP, 12 PRS, Bite (d6))
 
 ## 16. Changeling
 - Two Daggers (d6+d6)
@@ -98,7 +98,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 - [Witchwood Seal](/hacks/third-party/fantasy-loadouts#witchwood-seal)
 - Face Paint
 - Herbal Poultice
-- Owl (1 HP, 16 DEX, Talons (d4))
+- Owl (1 HP, 16 AGL, Talons (d4))
 
 ## 26. Duergar (Deep Dwarf)
 - Meathook (d8)
@@ -186,7 +186,7 @@ Some packages may have [**Relics**](/hacks/third-party/fantasy-loadouts#relics) 
 - Padded Leathers (1 Armor)
 - Large Trap
 - Thundering Horn
-- Bloodhound (2 HP, 12 DEX, Bite (d6))
+- Bloodhound (2 HP, 12 AGL, Bite (d6))
 
 ## 45. Illusionist
 - Ornate Cane (d6)
@@ -320,14 +320,14 @@ _Pacify_ when smacked on knuckles
 
 ## Drugs
 ##### **Brikabrak**
-WIL save vs confusion and speaking all thoughts aloud for 1d8 hours.
+PRS save vs confusion and speaking all thoughts aloud for 1d8 hours.
 ##### Craze
 STR save vs feeling no pain, hunger, or weariness for 1d12 hours.
 ##### Drake
 STR save vs “enjoying” violent psychosis for 1d4 hours.
 ##### Leycap
-Consume to restore fatigue, WIL save vs addiction.
+Consume to restore fatigue, PRS save vs addiction.
 ##### Slicksweet
-DEX save vs legs going rubbery for an hour.
+AGL save vs legs going rubbery for an hour.
 ##### Spangle
-WIL save vs zen disconnectedness for a full day.
+PRS save vs zen disconnectedness for a full day.

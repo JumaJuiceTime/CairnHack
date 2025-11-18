@@ -12,8 +12,9 @@ grand_parent: Blood Moon's Gaze
 Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **Agility (AGL)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
+- **Presence (PRS)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, etc.
+- **Spirit (SPI)**: Used for saves requiring strength of mind, and manipulating spells, etc.
 
 ## Saves
 
@@ -50,8 +51,8 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ## Morale
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
+- Enemies must pass a PRS save to avoid fleeing when they take their first casualty and again when they lose half their number. 
+- Some groups may use their leader's PRS in place of their own. Lone foes must save when they're reduced to 0 HP. 
 - Morale does not affect PCs.
 
 ## Hirelings
@@ -70,7 +71,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 ### Rounds
 
 - A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
+- During the _first round of combat_, each PC must make a AGL save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
 - Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
 
 ### Actions
@@ -98,7 +99,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 ### Attribute Loss
 
 - If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- If a PC's STR is reduced to 0, they die. If their AGL is reduced to 0, they are paralyzed. If their PRS is reduced to 0, they are delirious. Complete AGL and PRS loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Character Death
 
@@ -111,7 +112,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Retreat
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- Running away from a dire situation always requires a successful AGL save, as well as a safe destination to run to.
 
 ### Ranged Attacks
 
@@ -184,11 +185,11 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
 | 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
 | 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
+| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: AGL, 5-6: PRS. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
+| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max AGL, take the new result.                                                              |
+| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a PRS save. If you pass, increase your max PRS by 1d4.                                                                              |
+| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max PRS, take the new result.                                                                                    |
+| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a PRS save. If you pass, increase your max PRS by 1d6.                                                                |
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
@@ -205,7 +206,7 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 
 - Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
 - Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a SPI save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
 
 ### Scrolls
 

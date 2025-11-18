@@ -6,8 +6,8 @@ grand_parent: Resources
 
 # Dryad
 
-4 HP, 8 STR, 12 DEX, 14 WIL, knotted arms (d6)
+4 HP, 8 STR, 12 AGL, 14 PRS, knotted arms (d6)
 
 - Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.
 - Unable to travel far from the tree they are bound to. They perish if the tree is destroyed.
-- **Befuddle**: Target becomes confused, gradually moving further and further away from the host tree. WIL save once per round to break free.
+- **Befuddle**: Target becomes confused, gradually moving further and further away from the host tree. PRS save once per round to break free.

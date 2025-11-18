@@ -38,7 +38,7 @@ You are the master of the arts of combat and warfare
 You are the Priest, the Druid, the Paladin.  
 You are a faithful servant of your deity. Battle ready to channel the power of your cult.
 
-**Priest**: You always find help and resources in the temple of your deity but stay in line with the dogma of your religion or be disfavored. You can invoke the divine power, brandishing your holy symbol, to repel undead (creatures **Save WIL** to resist).
+**Priest**: You always find help and resources in the temple of your deity but stay in line with the dogma of your religion or be disfavored. You can invoke the divine power, brandishing your holy symbol, to repel undead (creatures **Save PRS** to resist).
 
 **Druid**: You belong to the wild lands and feel uncomfortable in cities. You worship the elements and the old bestial deities. You can communicate with animals and always find resources in the wilderness.  You can shape-shift into your totem animal (get 1 **Fatigue**  when you shift back).
 
@@ -91,11 +91,11 @@ You are the scholar of the arcane, you handle spells and magic like no one else.
 
 **Elementalist**: You summon the forces of the four elements: Water, Earth, Fire and Air. You choose one element: You always have 3 **Armor** against it and your attack spells based on it are _enhanced_.
 
-**Enchanter**: You have sharpened your magic ability to seduce and charm mundane creatures with your words. You can **hypnotize** an intelligent creature by holding a trinket and speaking directly to him/her. The creature is dazed and confused until a **WIL Save** is passed.
+**Enchanter**: You have sharpened your magic ability to seduce and charm mundane creatures with your words. You can **hypnotize** an intelligent creature by holding a trinket and speaking directly to him/her. The creature is dazed and confused until a **PRS Save** is passed.
 
 **Character creation**
 
-- **Grimoire** (Bulky). This is the fruit of your research and your most precious belongings (only you can decipher it). You can spend four hours to copy a standard Spellbook into your **Grimoire** followed by a successful **WIL Save**. During this process the original Spellbook is destroyed. Scrolls cannot be copied.
+- **Grimoire** (Bulky). This is the fruit of your research and your most precious belongings (only you can decipher it). You can spend four hours to copy a standard Spellbook into your **Grimoire** followed by a successful **PRS Save**. During this process the original Spellbook is destroyed. Scrolls cannot be copied.
 - You are not comfortable wearing bulky armor. Spell casting wearing one will cost 2 **Fatigue**.
 
 **Starting Gear**

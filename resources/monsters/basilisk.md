@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Basilisk
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 HP, 1 Armor, 12 STR, 13 AGL, 13 PRS, bite (d10)
 
 - Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
 - Fighting a **Basilisk** without meeting its gaze is difficult. (Attacks facing it are _impaired_.)

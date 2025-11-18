@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Giant Mantis
 
-10 HP, 1 Armor, 12 STR, 14 DEX, 12 WIL, forelegs (d8+d8)
+10 HP, 1 Armor, 12 STR, 14 AGL, 12 PRS, forelegs (d8+d8)
 
 - Cow-sized insects with sharp forelimbs and slicing mandibles. Dwell in tropical forests and jungles.
 - Relies on its dark green coloration to camouflage in foliage and attack unsuspecting prey. 

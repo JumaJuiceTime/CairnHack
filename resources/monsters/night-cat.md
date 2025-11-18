@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Night Cat
 
-6 HP, 9 STR, 14 DEX, 5 WIL, claws (d6+d6)
+6 HP, 9 STR, 14 AGL, 5 PRS, claws (d6+d6)
 
 - Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in
 packs.

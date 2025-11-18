@@ -64,8 +64,8 @@ When the party:
 
 ## Panic
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
+- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **PRS** **save** is typically required to avoid losing control and becoming _panicked_. 
+- A _panicked_ character must make a **PRS** **save** to overcome their condition as an **action** on their **turn**.
 - A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
 
 ### Dungeon Elements
@@ -85,7 +85,7 @@ When the party:
 
 - A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
 - **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+- Damage from traps is taken from Attributes (usually **STR** or **AGL**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
 
 ## Wilderness Exploration
 
@@ -248,7 +248,7 @@ PCs can complete individual **Milestones** by taking a **Downtime Action** and p
 - **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
 - **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **PRS** save; on a success, the cost is either reduced or avoided entirely. 
 
 ## Downtime Actions
 

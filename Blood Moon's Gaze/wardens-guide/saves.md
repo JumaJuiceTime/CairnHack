@@ -37,7 +37,7 @@ There are three common scenarios in which a player character should save:
 
 **Freya**: _"Sorry, I can't hear you through the barks and snarling!"_
 
-**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make DEX saves in order to make it."_
+**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make AGL saves in order to make it."_
 
 **Wolfram**: _"I'm going to stop and hold the gate for as long as I can. What do I risk?"_
 
@@ -51,7 +51,7 @@ There are three common scenarios in which a player character should save:
 
 **Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway... Hey, wait for me!"_
 
-### Dexterity
+### Agility
 
 > Freya crouches atop the rafters of a decrepit tavern, spying on a gang of heavily-armed thugs below. 
 
@@ -63,7 +63,7 @@ There are three common scenarios in which a player character should save:
 
 **Freya**: _"Rats. Well, no time like the present, right? I'm going to sneak back the way I came._"
 
-**Warden**: _"That's fine, but when you passed earlier there was no one here. That is no longer the case! You'll need to make a DEX save to avoid detection._"
+**Warden**: _"That's fine, but when you passed earlier there was no one here. That is no longer the case! You'll need to make a AGL save to avoid detection._"
 
 > Freya rolls a 16: a fail!
 
@@ -71,7 +71,7 @@ There are three common scenarios in which a player character should save:
 
 **Freya**: _"I have one smoke bomb left, and I plan on using it. I'm going to drop into the kitchens to find a pot. If I recall correctly, water makes the smoke go crazy..."_
 
-### WIL
+### Presence
 
 > Lucius has been captured after helping a client try to break into the ancient vault of Der Thunn. In a sudden glut of courage, he allowed himself be taken so that the others could escape.
 
@@ -109,15 +109,15 @@ There are three common scenarios in which a player character should save:
 
 **Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
 
-**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a WIL save, right? So that I seem 'convincing?'"_
+**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a PRS save, right? So that I seem 'convincing?'"_
 
-**Warden**: _"You'd need to make a WIL save even if you weren't telling the truth. You're definitely the most at risk here, and despite your experience as a charlatan, you think she can probably see through any lie. She and you might not be so different."_
+**Warden**: _"You'd need to make a PRS save even if you weren't telling the truth. You're definitely the most at risk here, and despite your experience as a charlatan, you think she can probably see through any lie. She and you might not be so different."_
 
 **Lucius**: _"OK. Madam: I'll be straight with you. My friends and I are here to sneak into the vault of Der Thunn. I only learned of that phrase a few minutes ago. I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
 
 **Warden**: _"Katja. And please, tell me everything._"
 
-> Lucius describes the party's , and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
+> Lucius describes the party's , and their efforts so far. He makes a PRS save. He rolls a 5, a success! Katja is convinced of his sincerity.
 
 **Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
 
@@ -125,7 +125,7 @@ There are three common scenarios in which a player character should save:
 
 ## Opposed Saves
 
-> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Freya failed her initial DEX save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
+> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Freya failed her initial AGL save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
 
 **Freya**: _"I don't think I can survive another bout with their leader, so I'm going to try and knock him off the cliff!"_
 
@@ -135,7 +135,7 @@ There are three common scenarios in which a player character should save:
 
 > Freya rolls a STR save to try and grapple the Hobgoblin and toss him off the cliff. She rolls a 17, a fail!
 
-**Warden**: _"Their leader picks you up and flings you backward, sending you careening off the cliff. Fortunately the Catring activates its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a DEX save to do it quickly._"
+**Warden**: _"Their leader picks you up and flings you backward, sending you careening off the cliff. Fortunately the Catring activates its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a AGL save to do it quickly._"
 
 **Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
 
@@ -155,7 +155,7 @@ There are three common scenarios in which a player character should save:
 
 **Wolfram**: _"If we run to the opposite side, does it look like we can make it safely?"_
 
-**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last and will need to make a DEX save to arrive there safely."_
+**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last and will need to make a AGL save to arrive there safely."_
 
 **Freya**: _"You just had to take the lead, didn't you, Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
 

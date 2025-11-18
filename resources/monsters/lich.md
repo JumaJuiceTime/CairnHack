@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Lich
 
-14 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, soul dagger (d8)
+14 HP, 1 Armor, 8 STR, 8 AGL, 18 PRS, soul dagger (d8)
 
 - Powerful sorcerers that paid the ultimate price for immortality: their own life. Now their thirst for power knows no bounds.
 - Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.

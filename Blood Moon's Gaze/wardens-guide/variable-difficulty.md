@@ -22,11 +22,11 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 ### Evening The Odds
 
-> Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
+> Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial AGL save and thus gets to attack before her opponent.
 
 **Freya**: _"I know I can't beat this guy fair and square, so I'd like to know if there is anything nearby that might even the odds a bit. I grew up on the streets, which means I know how to fight dirty. I'd like to try and blind him without getting clobbered in the process. What are my options?"_
 
-**Warden**: _"I'll roll a Die of Fate to see how dusty things are around here. A 4! Alright, there is definitely some dust between you and your opponent, but you might need to get close to him in order to scoop some up. You'll need to make a DEX save."_ 
+**Warden**: _"I'll roll a Die of Fate to see how dusty things are around here. A 4! Alright, there is definitely some dust between you and your opponent, but you might need to get close to him in order to scoop some up. You'll need to make a AGL save."_ 
 
 > Freya rolls a 13: a success!
 
@@ -42,7 +42,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Freya**: _"Alright, I'm taking this as a sign. Time to make my exit!"_
 
-> Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
+> Freya flees the scene (no AGL save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
 
 ### Teamwork
 
@@ -76,7 +76,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Warden**: _"The creature is impaled by the bolt, green fluid spurting out of its body. Where it lands, the surface hisses as if in contact with acid. It turns towards the cart, but before it can react, Lucius throws his large sack over it. The creature thrashes about inside the sack, twisting in every which way."_
 
-> The Warden makes a DEX save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 DEX. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
+> The Warden makes a AGL save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 AGL. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
 
 ### Character History
 
@@ -88,7 +88,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Warden**: _"The men exchange a look. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
 
-> At this point, Lucius is putting on all his charm and is essentially trying to bribe the guards to gain entry. He is also the most at risk in this situation, as the two men are well-equipped to handle a lone traveler and have backup besides. If it were required, Lucius would make the WIL save and not the guards.
+> At this point, Lucius is putting on all his charm and is essentially trying to bribe the guards to gain entry. He is also the most at risk in this situation, as the two men are well-equipped to handle a lone traveler and have backup besides. If it were required, Lucius would make the PRS save and not the guards.
 
 **Lucius**: _"Yes, I understand. But it isn't quite dark yet, is it? The Sun is only just setting. May I please enter? I'd happily start sharing my newfound wealth with you two first, if you catch my drift. Perhaps I could bring you each a well-earned beer? To show my appreciation, of course._"
 
@@ -108,7 +108,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Freya**: _"If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to raise the alarm, so I will need to be fast and furious."_
 
-**Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
+**Warden**: _"OK. They will need to make a AGL save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
 
 **Freya**: _"What if instead I just knock them unconscious by dropping a tree branch on top of them? I have a hand ax in here somewhere."_
 
@@ -118,7 +118,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 ## Combat Is War
 
-> **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], and they are taking shelter in a burnt-out old outpost at the edge of a forest, accessible only by a single ladder. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party has taken refuge in the outpost, and are talking among themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take Critical Damage. 
+> **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 AGL, 12 PRS, short sword (d6)], and they are taking shelter in a burnt-out old outpost at the edge of a forest, accessible only by a single ladder. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party has taken refuge in the outpost, and are talking among themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take Critical Damage. 
 
 **Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats, you see the soldiers split off: six head towards the Southwest, adjacent to the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. You have less than a minute to act before they reach the open-side of the shield wall! What do you do?"_
 
@@ -130,7 +130,7 @@ In Cairn, players are encouraged to overcome problems by asking questions, think
 
 **Lucius**: _"Uh, I guess I’ll use my oil just after she tosses the Smoke Bombs, then?”_
 
-**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Wolfram stands to fire. And since you're all at the ready, there is no need to make a DEX save: you go first."_
+**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Wolfram stands to fire. And since you're all at the ready, there is no need to make a AGL save: you go first."_
 
 **Warden**: _"The soldiers continue their trajectory, until finally the leader draws his sword into the air and screams, 'Charge!' And the soldiers rush towards you. Everything happens at once. Wolfram stands and fires his crossbow at the leader. Since the leader is part of a detachment, Wolfram can only roll a d4."_
 

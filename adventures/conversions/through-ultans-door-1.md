@@ -18,7 +18,7 @@ Conversion by lovelyzoo#7672.
 
 Thin old man with close set eyes and inky hands.
 
-4 HP, 8 STR, 14 DEX, knife (d6)
+4 HP, 8 STR, 14 AGL, knife (d6)
 
 - Expert print maker
 
@@ -26,7 +26,7 @@ Thin old man with close set eyes and inky hands.
 
 Bulky youth, face like a slab of meat.
 
-4 HP, 14 STR, 4 WIL, spiked club (d8)
+4 HP, 14 STR, 4 PRS, spiked club (d8)
 
 - Uninquisitive but loyal (to Ultan)
 
@@ -45,7 +45,7 @@ Alabaster skin and white hair with a blackened mouth. Clad in tattered finery.
 
 Hairless, dun-coloured dogs with a head like a horse skull
 
-5 HP, 1 Armor, 12 STR, 12 DEX, bite (d8)
+5 HP, 1 Armor, 12 STR, 12 AGL, bite (d8)
 
 - Feast on rotting flesh or offal
 
@@ -53,7 +53,7 @@ Hairless, dun-coloured dogs with a head like a horse skull
 
 Sinuous white swine, upright on rear trotters with human hands and eyes.
 
-3 HP, 1 Armor, 7 STR, 13 DEX, 6 WIL, bite (d6)
+3 HP, 1 Armor, 7 STR, 13 AGL, 6 PRS, bite (d6)
 
 - Devious, with a profound understanding of Zyanian jurisprudence
 - Will exploit dark vision to perform stealthy attacks but prone to giggling
@@ -63,7 +63,7 @@ Sinuous white swine, upright on rear trotters with human hands and eyes.
 
 Ornate shadow wearing a feathered turban, moves with a jerky grace.
 
-3 HP, 15 DEX, 5 WIL, scimitar (d6) or polearm (d8, Bulky)
+3 HP, 15 AGL, 5 PRS, scimitar (d6) or polearm (d8, Bulky)
 
 - Barely visible in dim light, and always take initiative
 - Melt away immediately upon taking damage
@@ -77,7 +77,7 @@ Woman holding a lobster to her breast, singing a lullaby
 
 A king feeds swans into a spaghetti press, squeezing out strands of light
 
-8 HP, 2 Armor, 6 DEX, slaps (d6 Blast)
+8 HP, 2 Armor, 6 AGL, slaps (d6 Blast)
 
 - Once approached melts into a shimmering puddle of slime and commences attack
 - Hungers for the substance of dreams
@@ -87,7 +87,7 @@ A king feeds swans into a spaghetti press, squeezing out strands of light
 
 A single eye sits among a tangle of raven wings with no head and no body.
 
-5 HP, 1 Armor, 18 DEX, 8 WIL, murderous glare (d4 range)
+5 HP, 1 Armor, 18 AGL, 8 PRS, murderous glare (d4 range)
 
 - Flits erratically, like a quick moving bat
 - Not hostile but turn their gaze where curiosity takes it
@@ -107,26 +107,26 @@ Golden head like a starfish, clotted with excrement, 6’ long.
 
 Old, guildless man, wears a pearl encrusted bandolier, embellished with fetishes.
 
-8 HP, 1 Armor, 9 WIL ruined doll (d4)
+8 HP, 1 Armor, 9 PRS ruined doll (d4)
 
 - Cautious, seeks reinforcements when outnumbered
-- Bandolier of the Pickled Prince: When Shaltromo is hit in melee, the opponent experiences a humiliating memory and takes WIL damage equal to their attack roll.
-- Critical Damage: Holy Symbol of the Pickled Prince, opponent takes d10 WIL damage.
+- Bandolier of the Pickled Prince: When Shaltromo is hit in melee, the opponent experiences a humiliating memory and takes PRS damage equal to their attack roll.
+- Critical Damage: Holy Symbol of the Pickled Prince, opponent takes d10 PRS damage.
 
 ### Shaltromo’s apprentice (x2)
 
 Youths bearing wicker baskets full of mushrooms, bathed in a melancholy light.
 
-4 HP, 9 WIL, cudgel (d6) 
+4 HP, 9 PRS, cudgel (d6) 
 
 - Light is cast as a ward against Shadow Puppets
-- Critical Damage: Cudgel of Senescence, on a failed WIL save opponent glimpses a dire fate and is incapacitated by fear for the remainder of the battle.
+- Critical Damage: Cudgel of Senescence, on a failed PRS save opponent glimpses a dire fate and is incapacitated by fear for the remainder of the battle.
 
 ### Ulimamo, Explorer from Zyan above
 
 Bold statured man, wearing a leonine mask and ornate, lacquered Armor.
 
-6 HP, 3 Armor, 14 STR, 8 DEX, 14 WIL, great spear (d8)
+6 HP, 3 Armor, 14 STR, 8 AGL, 14 PRS, great spear (d8)
 
 - Expects anyone not wearing a mask (criminal scum!) to prostrate themselves
 - Searching for a tunnel that leads to the White Jungle
@@ -135,29 +135,29 @@ Bold statured man, wearing a leonine mask and ornate, lacquered Armor.
 
 Woman in damask robes wearing a mask that extends into a conical hat.
 
-5 HP, 8 STR, 8 DEX, 14 WIL, Night Terror, dagger (d6)
+5 HP, 8 STR, 8 AGL, 14 PRS, Night Terror, dagger (d6)
 
 - Demure demeanour apparent despite mask
-- Potion of Slipperiness. Splash on a character within 10’. For the next hour they must make a DEX save to complete any significant action or fall taking d4 damage.
-- Critical Damage: Night Terror, opponent must make a WIL save or be incapcitated by waking nightmares for the next turn.
+- Potion of Slipperiness. Splash on a character within 10’. For the next hour they must make a AGL save to complete any significant action or fall taking d4 damage.
+- Critical Damage: Night Terror, opponent must make a PRS save or be incapcitated by waking nightmares for the next turn.
 
 ### Caterpillar beasts, steeds of Maneeshaneru and Ulimamo
 
 Zebra striped caterpillar the size of a horse.
 
-6 HP, 1 Armor, 14 DEX, claws (d6+d6)
+6 HP, 1 Armor, 14 AGL, claws (d6+d6)
 
 ### Apprentice explorers, lackeys of Maneeshaneru and Ulimamo
 
 Adorned with plain masks and simple robes, bearing heavy loads.
 
-4 HP, 11 STR, 8 DEX, spear (d6)
+4 HP, 11 STR, 8 AGL, spear (d6)
 
 ## Encounter Oddities
 
 ### Bandolier of the Pickled Prince (Shaltromo)
 
-When the wearer is hit in melee, the opponent experiences a humiliating memory and takes WIL damage equal to their attack roll. Usage: one battle. Recharge: the wielder experiences humiliation.
+When the wearer is hit in melee, the opponent experiences a humiliating memory and takes PRS damage equal to their attack roll. Usage: one battle. Recharge: the wielder experiences humiliation.
 
 ### Holy Symbol of the Pickled Prince (Shaltromo)
 
@@ -165,19 +165,19 @@ Ruined doll (d4). On a d4, the opponent experiences crushing despair and is Depr
 
 ### Cudgel of Senescence (Shaltromo’s apprentices)
 
-On a failed WIL save opponent glimpses a dire fate and is incapacitated by fear for the remainder of the battle. Usage: one battle. Recharge: the wielder is reduced to exactly 0 HP in battle.
+On a failed PRS save opponent glimpses a dire fate and is incapacitated by fear for the remainder of the battle. Usage: one battle. Recharge: the wielder is reduced to exactly 0 HP in battle.
 
 ### Potion of Slipperiness (Maneeshaneru)
 
-Splash on a character within 10’. For the next hour they must make a DEX save to complete any significant action or fall taking d4 damage. Single use.
+Splash on a character within 10’. For the next hour they must make a AGL save to complete any significant action or fall taking d4 damage. Single use.
 
 ### Night Terror (Maneeshaneru)
 
-Dagger (d4). Critical Damage: Opponent must make a WIL save or be incapacitated by waking nightmares for the next turn.
+Dagger (d4). Critical Damage: Opponent must make a PRS save or be incapacitated by waking nightmares for the next turn.
 
 ## Room 2, Domed Room, Page 16
 
-Bear traps do d10 DEX damage.
+Bear traps do d10 AGL damage.
 
 ### Oddity: Golden effigy of a web
 
@@ -191,7 +191,7 @@ Consider running white swine in this room as a Detachment.
 
 Massive mother pig lying on her side, offering teats that protrude from flaccid folds to suckling white swine.
 
-15 HP, 18 STR, 0 DEX
+15 HP, 18 STR, 0 AGL
 
 - Immobile and has no attacks, her brood is her defence.
 - Nest is damp with swine afterbirth, and straw bedding is flame retardant.
@@ -202,7 +202,7 @@ Massive mother pig lying on her side, offering teats that protrude from flaccid 
 
 6’ tall, young woman. Rosy cheeks and a sweating brow, holds a parasol.
 
-7 HP, 2 Armor, 13 STR, 16 WIL, bladed parasol (d8, Bulky)
+7 HP, 2 Armor, 13 STR, 16 PRS, bladed parasol (d8, Bulky)
 
 - An automata, triggered by PC proximity to the Altar of the Holy Puppet
 - Parasol affords +1 Armor against ranged weapons
@@ -211,7 +211,7 @@ Massive mother pig lying on her side, offering teats that protrude from flaccid 
 
 A smirking man, clad in black formal wear, standing 10’ tall in stilts.
 
-6 HP, 3 Armor, 11 STR, 13 DEX, 16 WIL, scissor stilts (d8, Bulky)
+6 HP, 3 Armor, 11 STR, 13 AGL, 16 PRS, scissor stilts (d8, Bulky)
 
 - An automata, triggered by PC proximity to the Altar of the Holy Puppet.
 - Attacks like a whirling dancer on stilts, cannot be flanked.
@@ -221,9 +221,9 @@ A smirking man, clad in black formal wear, standing 10’ tall in stilts.
 
 Woman wearing a mask of a crow. Her bosom swells below robes, gathered by jewel sash.
 
-Puppet usable as a vehicle on a 5d6 DEX save, otherwise damaged. Confers these stats:
+Puppet usable as a vehicle on a 5d6 AGL save, otherwise damaged. Confers these stats:
 
-9 HP, 3 Armor, 7 DEX, needle beaked children (d8+d8+d8)
+9 HP, 3 Armor, 7 AGL, needle beaked children (d8+d8+d8)
 
 ## Room 21, Scriptorum, Page 25
 
@@ -233,7 +233,7 @@ Testify and Chain of Evidence, single use only scrolls.
 
 Silver skinned fruit. Aromatic, sweet, white flesh has black marks that look like writing.
 
-Consuming the fruit gives an instinctive understanding of Zyan’s byzantine criminal code. +4 to WIL in any future legal scenario.
+Consuming the fruit gives an instinctive understanding of Zyan’s byzantine criminal code. +4 to PRS in any future legal scenario.
 
 ## Room 29, Down the Hole, Page 28
 
@@ -241,10 +241,10 @@ Consuming the fruit gives an instinctive understanding of Zyan’s byzantine cri
 
 An armless torso of sagging blue skin extends from a bulbous thorax with sharp spider legs. Atop the torso sits an eyeless face with a forehead shaped like a papal crown. 
 
-10 HP, 2 Armor, 16 DEX, 8 WIL, stab with legs (d4+d4) and bite (d10)
+10 HP, 2 Armor, 16 AGL, 8 PRS, stab with legs (d4+d4) and bite (d10)
 
 - Craves veneration. When a sacrifice is placed on the web the Weaver:
 - opens a way for the celebrant’s party (page 12)
-- telepathically offers the Blessing of Azamarane to celebrants that make a 4d6 WIL save (page 35)
+- telepathically offers the Blessing of Azamarane to celebrants that make a 4d6 PRS save (page 35)
 - Prefers to summon Shadow Puppets (page 29) rather than directly attack the party
 - Critical Damage: (from bite) A failed STR saving throw ends in death

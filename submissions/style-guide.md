@@ -29,7 +29,7 @@ Relics utilize the following template:
 
 ```
 #### Monster Name
-# HP, # Armor, # STR, # DEX, # WIL, weapon1 (d#), item or ability (special details)
+# HP, # Armor, # STR, # AGL, # PRS, weapon1 (d#), item or ability (special details)
 - Special 1 (critical damage, special abilities, etc)
 - **Critical Damage**: What happens?
 ```
@@ -51,7 +51,7 @@ grand_parent: Resources
 
 # Monster Name
 
-# HP, # Armor, # STR, # DEX, # WIL, weapon1 (d#), item or ability (special details)
+# HP, # Armor, # STR, # AGL, # PRS, weapon1 (d#), item or ability (special details)
 
 - Special 1 (critical damage, special abilities, etc)
 - **Critical Damage**: What happens?

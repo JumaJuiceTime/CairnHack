@@ -15,7 +15,7 @@ redirect_from: /resources/adventure-conversions/the-isles-of-the-dead/
 - Piercing and Slashing damage received is impaired.
 
 ### Boatman
-6 HP, 1 Armor, 8 STR, 12 WIL, staff (d8)
+6 HP, 1 Armor, 8 STR, 12 PRS, staff (d8)
 - Delivers passengers after they paid the 2 coppers. Only fights to defend itself.
 - If killed, the murderer becomes the new boatman, becoming locked to the boat and incapable of being resurrected.
 
@@ -24,21 +24,21 @@ redirect_from: /resources/adventure-conversions/the-isles-of-the-dead/
 - As written.
 
 ### Sir Hactor the Demonslayer
-8 HP, 1 Armor, 12 STR, 14 WIL, sword (d8, deals max damage to demons)
+8 HP, 1 Armor, 12 STR, 14 PRS, sword (d8, deals max damage to demons)
 - Conducts the prayers in the tower, invites anyone to join him.
 - Can fully heal with a touch, if the PCs ask nicely.
 - I'll gladly let a PC borrow his magic sword Transfiguration.
 - **Transfiguration, Demonslayer Sword.** d8, deals maximum damage to demons.
 
 ### Signal, the Angel
-14 HP, 3 Armor, 16 STR, 12 DEX, 18 WIL, sword (d8+d8) or whip (d6+d6, target is restrained)
+14 HP, 3 Armor, 16 STR, 12 AGL, 18 PRS, sword (d8+d8) or whip (d6+d6, target is restrained)
 
 - Direct the souls to their deserved afterlife, using force if they refuse to comply.
 - Can voice a one word command as an action, the recipient must comply.
 
 ### Buddy, the Demon
 
-10 HP, 2 Armor, 12 STR, 14 DEX, 16 WIL, throwing knives (d6+d6+d6)
+10 HP, 2 Armor, 12 STR, 14 AGL, 16 PRS, throwing knives (d6+d6+d6)
 
 - Appears as a halfling in a black suit, can fly.
 - Offers to restore a soul back to life, if another agrees to serve him.

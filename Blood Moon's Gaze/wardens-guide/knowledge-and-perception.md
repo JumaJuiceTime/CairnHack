@@ -19,7 +19,7 @@ If a character has no justifiable knowledge of a subject, then they simply do no
 
 ### Relics
 
-When a character first acquires a Relic they are not familiar with, they can either spend time learning more about it (using a Downtime action) or experiment with it. The latter carries some dangers and may even require a successful WIL save to avoid negative consequences. However, it is often more interesting to allow the player to ask as many questions as they like about it and (eventually) to simply _tell them how it works_.
+When a character first acquires a Relic they are not familiar with, they can either spend time learning more about it (using a Downtime action) or experiment with it. The latter carries some dangers and may even require a successful SPI save to avoid negative consequences. However, it is often more interesting to allow the player to ask as many questions as they like about it and (eventually) to simply _tell them how it works_.
 
 ## Perception
 
@@ -33,13 +33,13 @@ A colony of **bees** furiously circles a massive hive hanging from the branch of
 
 - **Bees**: Their buzzing is nearly deafening, creating a wall of sound around the tree.
   - The hive is dripping with honey. It is delicious, and mundane.
-  - Any attempt to take honey from the hive is met with an aggressive response from the colony [3 HP, 3 STR, 12 DEX, 4 WIL, sting (d6), _detachment_].
+  - Any attempt to take honey from the hive is met with an aggressive response from the colony [3 HP, 3 STR, 12 AGL, 4 PRS, sting (d6), _detachment_].
 - **Man**: Leans against a long staff, his gaze fixed on the hive. He appears unfazed by the swarm. 
   - The man is a magical illusion created by the beekeeper as a means to drive away any potential predators. He will not react to any direct stimuli.
   - If the hive is damaged in any way, the man will scream very loudly, then disappear.
 - **Sword**: Shoe prints in the earth lead towards it but stop abruptly a few feet away. 
   - The weapon belongs to the skeleton buried just beneath the earth. It is a regular short sword (d6), strangely preserved.
-  - Bloodvines [3 HP, 4 STR, 13 DEX, 1 WIL, tendrils (d6, _blast_)] attack anyone that steps close to the sword, sapping 1 STR per round from their target (STR save to escape after the first round).
+  - Bloodvines [3 HP, 4 STR, 13 AGL, 1 PRS, tendrils (d6, _blast_)] attack anyone that steps close to the sword, sapping 1 STR per round from their target (STR save to escape after the first round).
 
 In this example, there are three potential dangers: the bees, the man, and the Bloodvine plant. The danger from bees is more obvious, as the PCs can clearly see the danger and are familiar with bees already. The man is an unknown entity and could be friend or foe, while the Bloodvines are hidden and act as a sort of trap. The Warden should therefore communicate exactly what the PCs can see, hear, and smell. 
 

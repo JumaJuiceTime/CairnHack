@@ -17,26 +17,26 @@ title: Hel's Crow's Final Rest
 ## Monsters or NPCs
 
 ### Sea Nakki
-4 HP, 12 STR, 14 DEX, 14 WIL, spiny hand (d8+d8)
+4 HP, 12 STR, 14 AGL, 14 PRS, spiny hand (d8+d8)
 - Immune to attacks by undead with less than 8 STR, and immune to non-magical and non-silvered weapons
 - Any target in the water within 20 feet of the Nakki takes d6 damage if the Nakki attacks.
 - Can summon 2d6 Giant Crabs outdoors
 
 ### Giant Crab
-6 HP, 2 Armor, 16 STR, 8 DEX, 4 WIL, claw (d10+d10)
+6 HP, 2 Armor, 16 STR, 8 AGL, 4 PRS, claw (d10+d10)
  - These are holy beasts (and thus can damage undead), but could be influenced by diabolic powers.
  - Critical Damage: crab-like carapace begins to form on a limb
  
 ### Thanes
-4 HP, 2 Armor, 8 DEX, 8 WIL, sword (d8)
+4 HP, 2 Armor, 8 AGL, 8 PRS, sword (d8)
  - **Heleg** (in area F3) has the sword **Tooth Breaker,** which does d10 damage.
  
 ### Bui (Priest)
-3 HP, 8 STR, 8 DEX, 12 WIL
+3 HP, 8 STR, 8 AGL, 12 PRS
  - Can heal minor wounds (recover 1 STR).
  
 ### Turgies Hel's Crow
-8 HP, 3 Armor, 18 STR, 14 DEX, 14 WIL, longsword (d10)
+8 HP, 3 Armor, 18 STR, 14 AGL, 14 PRS, longsword (d10)
   - Can cast the following spells (all listed in SRD) without a spellbook:
 	- *Command*
 	- *Mirror Image*
@@ -46,7 +46,7 @@ title: Hel's Crow's Final Rest
   - Can turn into a crow
   
 ### Draugur Reavers
-2 HP, 1 Armor, 13 STR, 8 DEX, 4 WIL, sword (d8)
+2 HP, 1 Armor, 13 STR, 8 AGL, 4 PRS, sword (d8)
  - immune to non-magical and non-silvered weapons
  - obedient to Turgies, and if Turgies dies they all crumble to dust. 
 

@@ -15,8 +15,8 @@ redirect_from: /resources/adventure-conversions/the-full-dark-stone/
 ## Encounters
 
 ### Vault Servant
-3 HP, Armor 1, STR 14, DEX 8, WIL 18
-- DEX 14 with jackal- skull
+3 HP, Armor 1, STR 14, AGL 8, PRS 18
+- AGL 14 with jackal- skull
 - Driven to serve
 - Working implements do d6 damage
 - Weapon arms do d8 damage or d6 harpoon 1 time
@@ -27,7 +27,7 @@ redirect_from: /resources/adventure-conversions/the-full-dark-stone/
 - d6 bite
 
 ### Korm the Adept
-8 HP, STR 16, WIL 14
+8 HP, STR 16, PRS 14
 - Driven to reanimate Orlug
 - d8 neck twist
 - Recovers d4 STR per hour from enchanted blood

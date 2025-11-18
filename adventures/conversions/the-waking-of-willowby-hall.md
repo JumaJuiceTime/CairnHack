@@ -16,19 +16,19 @@ redirect_from: /resources/adventure-conversions/the-waking-of-willowby-hall/
 ### Bonebreaker Tom
 
 #### If Fighting
-12 HP, 18 STR, 12 DEX, 14 WIL, smash/stomp or bell flail, *detachment*
+12 HP, 18 STR, 12 AGL, 14 PRS, smash/stomp or bell flail, *detachment*
 - Tom can only be injured by means of magic or *blast* attacks. Such attacks are considered *impaired* unless otherwise noted.
 - **Critical damage**: Victim takes d12+d12 STR damage as they are crushed and flung away by Tom.
 
 #### If Fleeing
-If Tom spots an enemy in a room he will smash in the wall with the bell flail (d6 STR damage to anyone still in the room and not behind cover) and attempt to grab a visible target (Save DEX or suffer his **Critical Damage** Effect).
+If Tom spots an enemy in a room he will smash in the wall with the bell flail (d6 STR damage to anyone still in the room and not behind cover) and attempt to grab a visible target (Save AGL or suffer his **Critical Damage** Effect).
 
 ##### Things Found in Tom's Beard.
 * **Patricia**: d8 sword, *enhanced* against giants.
 
 ### Death Knight
 
-10 HP, 3 Armor, 12 STR, 12 DEX, 16 WIL, sword (d8+d8)  
+10 HP, 3 Armor, 12 STR, 12 AGL, 16 PRS, sword (d8+d8)  
 - **Bone Prison**: a target is enclosed in a cage made of bones that springs from the ground.  
 - **Reanimate**: d3 skeletons crawl their way out the floorboards, walls, and ceiling.  
 - **Unstoppable**: When defeated, collapses into a pile of dust. Fully regenerates within his stone sarcophagus in 2 Dungeon Cycles unless it is destroyed or at least three lit black candles are placed on top of it.  
@@ -36,14 +36,14 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 
 ### Skeletal Servants
 
-4 HP, Armor 1, 8 STR, 12 DEX, 3 WIL, makeshift weapon (46)  
+4 HP, Armor 1, 8 STR, 12 AGL, 3 PRS, makeshift weapon (46)  
 - **Peaceful**: The skeletal servants of Willowby Hall are not the fighting type, unless attacked. When encountered, they are occupied in housework appropriate for the room.  
 - **Obedient**: All skeletons obey the Death Knight’s commands. If compelled into service, they will use whatever implements are at hand to attack. Either roll or pick from the list below.  
 - **Undead**: Not subject to Morale or Reaction rolls. Cannot approach Saint Olvard’s Bell.  
 
 ### Elias Fenwick (Evil Occultist)
 
-7 HP, 8 STR, 10 DEX, 15 WIL, wand (1d6), spells: _Comprehend, Liquid Air, Mirror Image, Visual Illusion._
+7 HP, 8 STR, 10 AGL, 15 PRS, wand (1d6), spells: _Comprehend, Liquid Air, Mirror Image, Visual Illusion._
 * *Comprehend*: You become fluent in all languages for a short while.
 * *Liquid Air*: The air around you becomes swimmable.
 * *Mirror Image*: An illusory duplicate of yourself appears and is under your control.
@@ -52,33 +52,33 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 
 ### Lavinia Coldwater (Ghostly Aristocrat)
 
-4 HP, 7 STR, 16 DEX, 14 WIL, astral strike (1d6, ignores armor)  
-- Critical Damage (WIL): Knocks the target’s soul right out of its body. May Save WIL to return next Round.  
+4 HP, 7 STR, 16 AGL, 14 PRS, astral strike (1d6, ignores armor)  
+- Critical Damage (PRS): Knocks the target’s soul right out of its body. May Save PRS to return next Round.  
 - **Spectral**: Lavinia can become invisible and intangible at will, has no physical needs, and can only be affected by magic and silver. Cannot approach Saint Olvard’s bell.  
   
 ### Horatio (Ghostly Footman)
 
-2 HP, 6 STR, 12 WIL  
+2 HP, 6 STR, 12 PRS  
 - **Spectral**: Horatio is invisible and intangible to everyone other than the person who summoned him. He has no physical needs, and can only be affected by magic and silver.  
 
 ### Taxidermied Owl Bear
 
-8 HP, 16 STR, 14 DEX, 3 WIL, beak and talons (d10, *blast*)
+8 HP, 16 STR, 14 AGL, 3 PRS, beak and talons (d10, *blast*)
 - **Stuffed**: Ignores all piercing and bludgeoning damage.  
 - **Flammable**: Very easy to ignite. Once on fire, it takes 1d6 STR damage per round and charges around the manor in a panic spreading the fire.  
 
 ### Helmut Halfsword
-9 HP, 2 Armor, 12 STR, 8 DEX, 6 WIL, halfsword (1d8, *bulky*)
+9 HP, 2 Armor, 12 STR, 8 AGL, 6 PRS, halfsword (1d8, *bulky*)
 
 ### Lisbet Grund
-6 HP, 11 STR, 14 DEX, 11 WIL, knife (1d6) and hook (1d6)  
+6 HP, 11 STR, 14 AGL, 11 PRS, knife (1d6) and hook (1d6)  
 - **Bag of Tricks**: Lisbet is carrying 50’ of rope, a bag of 100 marbles, two flasks of fire oil, a fake beard, a whole turkey leg, a bottle of poison, and a smoke bomb.
-- **Critical Damage**: The poison on Lisbet's knife causes nausea and blurred vision for 24 hours: D6 DEX damage and attacks are *impaired*  
+- **Critical Damage**: The poison on Lisbet's knife causes nausea and blurred vision for 24 hours: D6 AGL damage and attacks are *impaired*  
   
 
 ### Apocalypse Ann
  
-4 HP, 9 STR, 11 DEX, 16 WIL, doomsday staff ( (1d6), spellbooks: _Adhere_, _Arcane Arrow_, _Web_
+4 HP, 9 STR, 11 AGL, 16 PRS, doomsday staff ( (1d6), spellbooks: _Adhere_, _Arcane Arrow_, _Web_
 - **Doomsday Staff**: 3 charges, fires a fireball dealing d8 *blast* damage. At the start of the adventure she only has two charges left.
 - **Recharge**: Be in the posession of a person who is victim to but survives a major catastrophe. 
 * *Adhere*: An object is covered in extremely sticky slime.
@@ -86,7 +86,7 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 * *Web*: Your wrists shoot thick webbing.
 
 ### Horrible Magic Goose
-4 HP, STR 1, DEX 16, WIL 18, bite (1d4)
+4 HP, STR 1, AGL 16, PRS 18, bite (1d4)
 - **Honk**: If chased, harassed, or grabbed, Mildred will start honking and biting, requiring Dungeon Event rolls. The honking may also alert Bonebreaker Tom if he is nearby.
 - **Lay**: Every morning, Mildred lays a very heavy goose egg. Peel away the shell and the interior is solid gold. The volume of the metal is equal to 300gp.
 
@@ -95,10 +95,10 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 
 ## Willowby Hall First Floor
 ### Great Hall
-* **When Awake**: Save DEX if moving quickly through the room or slip and fall.
+* **When Awake**: Save AGL if moving quickly through the room or slip and fall.
 
 ### Music Room
-* If anything but the sheet music in the Guest Bedroom is played, thousands of harmless black spiders swarm over the PC's hands. Save WIL to keep from crying out and provoking a Dungeon Events roll.
+* If anything but the sheet music in the Guest Bedroom is played, thousands of harmless black spiders swarm over the PC's hands. Save PRS to keep from crying out and provoking a Dungeon Events roll.
 
 ### Sitting Room 
 * As written.
@@ -149,10 +149,10 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 * As written.
 
 ### Kitchen 
-* *When Awake*: All inside the Kitchen must Save Dex or suffer 1d8 STR damage as the contents of Servant Room B rain down from above. If traversing later in a hurry, save Dex or slip in ectoplasm.
+* *When Awake*: All inside the Kitchen must Save AGL or suffer 1d8 STR damage as the contents of Servant Room B rain down from above. If traversing later in a hurry, save AGL or slip in ectoplasm.
 
 ### Pantry
-* If climbing shelves, Save DEX or the shelves collapse loudly.
+* If climbing shelves, Save AGL or the shelves collapse loudly.
 
 ### Servant's Hall
 
@@ -177,10 +177,10 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 * 1d2 *blast* in a straight line. 
 * Recharge: Leave at the highest point of an area during a thunderstorm.
 
-* **When Restless**: If moving quickly, Save DEX or slip in ectoplasm.
+* **When Restless**: If moving quickly, Save AGL or slip in ectoplasm.
 
 ### Breakfast Room
-* **When Awake**: Without taking steps to neutralize the vines, PCs must Save DEX to move quickly enough through the room to avoid the vines while simultaneously not slipping. Failure results in 1d6 STR damage per round until the vines are removed. 
+* **When Awake**: Without taking steps to neutralize the vines, PCs must Save AGL to move quickly enough through the room to avoid the vines while simultaneously not slipping. Failure results in 1d6 STR damage per round until the vines are removed. 
 
 ## Willowby Hall 2nd Floor
 ### Bedroom 
@@ -220,7 +220,7 @@ If Tom spots an enemy in a room he will smash in the wall with the bell flail (d
 * PCs who know what Fenwick's red alchemy book look like and specifically look for it can find it in one Dungeon Cycle.
 
 ## Willowby Hall Roof
-* Those who suffer STR damage or do something to lose their footing must Save DEX or begin to slide off the roof, taking 1d12 STR damage from the 30' fall.
+* Those who suffer STR damage or do something to lose their footing must Save AGL or begin to slide off the roof, taking 1d12 STR damage from the 30' fall.
 
 ### West Roof Stairs
 * As written.

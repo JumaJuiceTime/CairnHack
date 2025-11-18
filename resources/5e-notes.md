@@ -8,10 +8,10 @@ parent: Resources
 
 First choose the attributes you're converting. 
 - For **STR**, choose the highest between STR or CON. 
-- Convert **DEX** directly. 
-- For **WIL** choose the highest between WIS or CHA.
+- Convert **AGL** directly. 
+- For **PRS** choose the highest between WIS or CHA.
 
-Now to get the value, add 10 to the equivalent 5e **modifier**. So, a monster that has 19(+4) STR on 5e, will have 14 STR on Cairn. One that has 6(-2) Wisdom in 5e will have 8 WIL on Cairn.
+Now to get the value, add 10 to the equivalent 5e **modifier**. So, a monster that has 19(+4) STR on 5e, will have 14 STR on Cairn. One that has 6(-2) Wisdom in 5e will have 8 PRS on Cairn.
  
 
 #### AC to Armor

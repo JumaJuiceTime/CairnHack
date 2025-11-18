@@ -33,7 +33,7 @@ Furious Book
 - If unfastened from the lectern, it can fly.
 - It is immune to poison, cold, and effects that only affect living things.
 - Fire does *enhanced* damage.
-- **Critical Damage:** drains 1 point of WIL
+- **Critical Damage:** drains 1 point of PRS
 
 ### Furnace
 
@@ -50,7 +50,7 @@ Minor Devil
 - Takes *impaired* damage from weapons that are not Holy, Magical, or Silver.
 - Takes *enhanced* damage from Holy weapons.
 - Immune to mind control that doesn't specifically target infernal beings.
-- Special ability 6: Drain a memory by touch - does d12 damage to WIL
+- Special ability 6: Drain a memory by touch - does d12 damage to PRS
 
 ### Ossuary
 
@@ -81,7 +81,7 @@ Queen Bee
 
 The Orrery
 
-- Make a WIL save, on success may as a single yes-or-no question about a cast horoscope and get an accurate answer.
+- Make a PRS save, on success may as a single yes-or-no question about a cast horoscope and get an accurate answer.
 
 ### Spider Trapdoor
 
@@ -111,13 +111,13 @@ What the Haunting can do
 
 1. Thrown objects to d6 damage.
 
-4. WIL save or memories are subtly altered. If the victim makes their save, they are aware of the attempt.
+4. PRS save or memories are subtly altered. If the victim makes their save, they are aware of the attempt.
 
-5. DEX save or take flame damage
+5. AGL save or take flame damage
 
 10. make a vermin swarm appear:
 
-    4 HP, 6 STR, 12 DEX, 11 WIL, bite (d3) _detachment_
+    4 HP, 6 STR, 12 AGL, 11 PRS, bite (d3) _detachment_
 
     - Afraid of fire
 
@@ -147,40 +147,40 @@ Trying to cast spells
 Falling 
 
 - Anything falling down the stairs takes d6 damage for each 20' fallen.
-- If someone is pushed down the stairs, they make a DEX save or fall.
+- If someone is pushed down the stairs, they make a AGL save or fall.
 
 ### Turning Gears
 
 Getting caught in the gears
 
 - Sticking a body part into the gears does d8+d8 damage.
-- If someone is pushed into the gears, they make a Dex save or take d8+d8 damage.
+- If someone is pushed into the gears, they make a AGL save or take d8+d8 damage.
 
 ## Monsters
 
 ### Animated Book
 
-6 HP, 1 Armor, 8 STR, 8 DEX, 9 WIL,  slam (d6)
+6 HP, 1 Armor, 8 STR, 8 AGL, 9 PRS,  slam (d6)
 
 - It can fly.
 - It is immune to poison, cold, and effects that only affect living things.
 - Fire does *enhanced* damage.
-- **Critical Damage:** drains 1 point of WIL
+- **Critical Damage:** drains 1 point of PRS
 
 ### Animate Spell
 
-3 HP, 6 STR, 6 DEX, 10 WIL, *spell casting* 
+3 HP, 6 STR, 6 AGL, 10 PRS, *spell casting* 
 
 - The spell's personality and powers depend on the nature of the spell
 - Immune to physical damage of the same type as the spell.
 - Controls the effects of any spells cast which have the same type/function.
 - Magical weapons do *diminished* damage to animate spells, normal weapons do no damage.
 - No physical attacks, but can cast itself once per round. 
-- If reduced to 0 STR, 0 WIL, or takes **critical damage**, becomes a normal spell book.
+- If reduced to 0 STR, 0 PRS, or takes **critical damage**, becomes a normal spell book.
 
 ### Archivist-Liches
 
-14 HP, 3 Armor, 15 STR, 9 DEX, 15 WIL, lich's finger (d10), *spell casting* 
+14 HP, 3 Armor, 15 STR, 9 AGL, 15 PRS, lich's finger (d10), *spell casting* 
 
 - Immune to mind control and sleep magics
 - Unless phylactery is destroyed, cannot be permanently killed.
@@ -190,16 +190,16 @@ Getting caught in the gears
 
 ### Bandersnatch
 
-13 HP, 14 STR, 9 DEX, 7 WIL, Long Arms (d4, *long reach*)
+13 HP, 14 STR, 9 AGL, 7 PRS, Long Arms (d4, *long reach*)
 
-- Until they take action, they can remain unnoticed, make a WIL save to spot them.
-- In lieu of attacking the arms can snatch an item (make a STR save to resist) or pick a victim's pocket (make a DEX save to avoid).
+- Until they take action, they can remain unnoticed, make a PRS save to spot them.
+- In lieu of attacking the arms can snatch an item (make a STR save to resist) or pick a victim's pocket (make a AGL save to avoid).
 - Non-iron weapons are *impaired* against them. Iron weapons are *enhanced*. 
 - **Critical Damage:** The opponent is grabbed and takes d8+d8 Damage per round until they make 3 STR saves to escape.
 
 ### Black Ooze
 
-5 HP, 12 STR, 6 DEX, 3 WIL, Mental Digestion (d6 to WIL)
+5 HP, 12 STR, 6 AGL, 3 PRS, Mental Digestion (d6 to PRS)
 
 - Piercing or slashing attacks against it are *diminished*
 - Regains 1HP for every point of damage caused by Mental Digestion 
@@ -207,14 +207,14 @@ Getting caught in the gears
 
 ### Conceptual Well
 
-1 HP, 5 STR, 5 DEX, 5 WIL, Unreal Knife (d6)
+1 HP, 5 STR, 5 AGL, 5 PRS, Unreal Knife (d6)
 
 - Can not be perceived or attacked directly.
 - **Critical Damage:** The victim immediately forgets a concept from the table provided. They take d10+d10 damage if they act in a way that indicates they are still aware of that concept unless the player immediately changes course when reminded by the keeper.
 
 ### Crawling Things
 
-4 HP, 1 Armor, 9 STR, 6 DEX, 5 WIL, Claw and Clutch (d6)  
+4 HP, 1 Armor, 9 STR, 6 AGL, 5 PRS, Claw and Clutch (d6)  
 
 - Slow, lurching.
 - Only dimly aware of surroundings

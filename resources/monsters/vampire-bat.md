@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Vampire Bat
 
-3 HP, 6 STR, 14 DEX, 3 WIL, bite (d8)
+3 HP, 6 STR, 14 AGL, 3 PRS, bite (d8)
 
 - Large, nocturnal mammals that feed on live blood. 
 - Use echolocation to navigate. Fear loud noises.

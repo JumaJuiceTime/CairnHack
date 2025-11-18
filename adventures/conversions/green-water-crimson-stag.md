@@ -17,12 +17,12 @@ As far as currency goes, gold crowns = gp, florins = sp, pennies = cp
 
 
 ### 2
-If you have DEX of 10 or higher you jump back to safety; otherwise make a DEX save. 
+If you have AGL of 10 or higher you jump back to safety; otherwise make a AGL save. 
 
 
 ### 14 
 #### Crimson Stag
-15 HP, 2 Armor, 18 STR, 16 DEX, 14 WIL, hooves (d8), butt (d10)
+15 HP, 2 Armor, 18 STR, 16 AGL, 14 PRS, hooves (d8), butt (d10)
 - The stag has a 50% chance each turn of using its magical breath instead of attacking (it will only use it once); this will impair your attack (1d4) for the remainder of the fight. 
 
 
@@ -38,15 +38,15 @@ The Draugr inflicts 2d6 damage; however if you are wearing a holy symbol (e.g. a
 
 
 ### 28 
-If your DEX is 13 or higher you succeed in climbing. 
+If your AGL is 13 or higher you succeed in climbing. 
 
 
 ### 37
-Make a DEX save to avoid the dart. If it hits you, the dart deals 1d4 damage and impairs your attack (reduces it to 1d4) if you fight the goblin. You have the option of fleeing combat with a DEX save. 
+Make a AGL save to avoid the dart. If it hits you, the dart deals 1d4 damage and impairs your attack (reduces it to 1d4) if you fight the goblin. You have the option of fleeing combat with a AGL save. 
 
 
 #### Goblin
-4 HP, 1 Armor, 8 STR, 12 DEX, 8 WIL, ice sword (d8)
+4 HP, 1 Armor, 8 STR, 12 AGL, 8 PRS, ice sword (d8)
 
 
 ### 40
@@ -58,7 +58,7 @@ If you fight the Draugr, bearing a holy symbol visibly on your person (e.g. a me
 
 
 #### Draugr
-12 HP, 2 Armor, 15 STR, 9 DEX, 13 WIL, silver axe (d8)
+12 HP, 2 Armor, 15 STR, 9 AGL, 13 PRS, silver axe (d8)
 
 
 ### 55
@@ -69,11 +69,11 @@ If you have 14 STR or higher, or a background in boating, you succeed; otherwise
 
 
 ### 61
-If you have no rations, follow the rules for DEPRIVATION. If you have hunter, herbalist, or other background related to gathering food in the woods, you can make a WIL save to find a ration. 
+If you have no rations, follow the rules for DEPRIVATION. If you have hunter, herbalist, or other background related to gathering food in the woods, you can make a PRS save to find a ration. 
 
 ### 62 
 #### Pukka 
-10 HP, 3 Armor, 15 STR, 12 DEX, 12 WIL, 2 claws (d6) 
+10 HP, 3 Armor, 15 STR, 12 AGL, 12 PRS, 2 claws (d6) 
 - If you surprised the Pukka you get first action and enhanced damage (d12) on your first attack. 
 - If you have the creepy twig doll, Pukka’s HP is 5; if you have the stag shield, its claw attack becomes d4; if you have a silver axe or sword, or a faerie weapon, Pukka’s armor is 1 and your damage goes up 1 die (d4->d6->d8->d10->d12); if you have the medallion with a cross, Pukka only gets 1 claw attack. 
 
@@ -83,26 +83,26 @@ The silver sword does 1d8 damage. The healing potion will heal 1d6 STR or 1d3 ST
 
 
 ### 65 
-Instead of the perception check, characters with hunter or ranger backgrounds, or other experience in tracking, will succeed and turn to 97. Otherwise make a WIL save to find your way. 
+Instead of the perception check, characters with hunter or ranger backgrounds, or other experience in tracking, will succeed and turn to 97. Otherwise make a PRS save to find your way. 
 
 ### 69
-If your DEX is 15 or above you automatically succeed in the jump and gain surprise; otherwise make a DEX save.
+If your AGL is 15 or above you automatically succeed in the jump and gain surprise; otherwise make a AGL save.
 
 
 ### 71 
 The Pukka throwing you off does 1 damage to your STR but you don’t need to make a critical damage save.  
-- If you have no rations, follow the rules for DEPRIVATION. If you have hunter, herbalist, or other background related to gathering food in the woods, you can make a WIL save to find a ration. 
+- If you have no rations, follow the rules for DEPRIVATION. If you have hunter, herbalist, or other background related to gathering food in the woods, you can make a PRS save to find a ration. 
 
 ### 81
 Left out in the air, the stag’s corpse dissipates in a red mist and leaves behind a spellbook. Roll on the Cairn spell table to determine which it is. 
 
 ### 91
-Characters with backgrounds dealing with ghosts (e.g. gravedigger, cleric) will stand their ground. Otherwise make a WIL save to avoid fleeing. 
+Characters with backgrounds dealing with ghosts (e.g. gravedigger, cleric) will stand their ground. Otherwise make a PRS save to avoid fleeing. 
 
 ### 101
 #### Milgwyn 
-5 HP, 1 Armor, 8 STR, 8 WIL, ghostly bite (d4 +2)
-- Remember the rule for multiple attackers- roll all damage dice and keep the single highest result; also remember to roll the Milgwyn’s morale (WIL save) each time you slay one. 
+5 HP, 1 Armor, 8 STR, 8 PRS, ghostly bite (d4 +2)
+- Remember the rule for multiple attackers- roll all damage dice and keep the single highest result; also remember to roll the Milgwyn’s morale (PRS save) each time you slay one. 
 
 ### 107
 Make an STR save and turn to 42 on a fail and 106 on a success.

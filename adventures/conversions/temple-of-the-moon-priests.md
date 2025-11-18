@@ -13,8 +13,8 @@ redirect_from: /resources/adventure-conversions/temple-of-the-moon-priests/
 
 ### Moon Hag
 
-6 HP, 12 STR, 16 WIL, Claws (d6), Drowning, Eerie Rhymes
-- **Eerie Rhymes**: her chant and rhymes drive men mad! Save WIL or follow the voice and be submitted to her will.
+6 HP, 12 STR, 16 PRS, Claws (d6), Drowning, Eerie Rhymes
+- **Eerie Rhymes**: her chant and rhymes drive men mad! Save PRS or follow the voice and be submitted to her will.
 - **Moon Skin**: her skin is nearly invisible when she stands in the dark, making all attacks against the hag *impaired*.
 - **Drowning**: if a character is maddened by the Eerie Rhymes or if the Hag deals damage to STR with her claws, she will drown the victim in the water (Save STR to get free or suffer 1d6 damage/round).
 
@@ -29,7 +29,7 @@ redirect_from: /resources/adventure-conversions/temple-of-the-moon-priests/
 - If in the position to successfully betray them for the Shard, he will.
 
 ### Knucklebone Werestag Leader
-5 HP, Armor 1, 12 STR, 12 WIL, Horns (d10)
+5 HP, Armor 1, 12 STR, 12 PRS, Horns (d10)
 
 ### Spectre of the Moon Priest
 12 HP, 6 STR, draining touch (d4)
@@ -40,11 +40,11 @@ redirect_from: /resources/adventure-conversions/temple-of-the-moon-priests/
 - Always attacks last in a round.
 
 ### Moon Priest Skeleton
-4 HP, 1 Armor, WIL 12, Crescent Blade (d8)
+4 HP, 1 Armor, PRS 12, Crescent Blade (d8)
 - Wears the robes of the Moon Priests, has a Crescent Medallion (5gp).
 
 ### Werespider
-4 HP, STR 12, WIL 8, Bite (d6)
+4 HP, STR 12, PRS 8, Bite (d6)
 
 - Will attack anyone who tries to drink from the fountain in order to prevent the same fate befalling them.
 - Lycanthropy : if target suffers Critical Damage, they become a lycanthrope of the same type in 2d6 days.

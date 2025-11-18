@@ -30,7 +30,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - **Recharge**: Abstain from reading or writing for a full lunar cycle, while keeping the quill on your person.
 
 ### Ghoul Fingers, 3 uses
-- A bundle of three severed human fingers, gray and partially mummified. The fingers can be snapped if bent against the joint, releasing a puff of dust. Anyone that inhales the dust is temporarily paralyzed, takes d8 DEX damage, and gains a permanent immunity from sleep and charm effects.
+- A bundle of three severed human fingers, gray and partially mummified. The fingers can be snapped if bent against the joint, releasing a puff of dust. Anyone that inhales the dust is temporarily paralyzed, takes d8 AGL damage, and gains a permanent immunity from sleep and charm effects.
 
 ### Rune of Thud
 - A heavy, palm-sized plate of shale with a strange symbol scratched deeply into the face. When pressed to a mundane or magical lock, roll a d6. On a 1-5, the lock unlocks silently. On a 6, the shale cracks with a thud that echoes for miles, leaving the bearer's hand temporarily numb and weakened from the shock.
@@ -110,7 +110,7 @@ The following is a list of Relics from all over the web, copied with permission.
 - **Recharge**: Soak the chainmail in oil for 1 hour.
 
 ### Bracelet of Slithering, 2 charges
-- A jade bracelet that transforms into a 10 STR / 11 DEX / 8 WIL venomous snake under the bearer's control.
+- A jade bracelet that transforms into a 10 STR / 11 AGL / 8 PRS venomous snake under the bearer's control.
 - **Recharge**: Feed the snake with something living.
 
 ### Rope of Attachment, 5 charges
@@ -157,7 +157,7 @@ The following is a list of Relics from all over the web, copied with permission.
 ### Forgotten Sword-Master's Blade d8 damage, 2 charges
 - Worn and weathered blue-gray longsword imbued with the memory of an ancient sword master, renown for his ability to duel multiple opponents at once.
 - Channeling the forgotten master's memory produces a whirling flourish, attacking all enemies around them within 10 feet (up to four) for d6 blast.
-- On critical damage save vs DEX or be disarmed.
+- On critical damage save vs AGL or be disarmed.
 - **Recharge**: by defeating another worthy opponent in a duel or disarming an enemy in combat.
 
 ### Cloak of the Monarch Queen, 3 charges
@@ -226,7 +226,7 @@ The following is a list of Relics from all over the web, copied with permission.
 
 ### Dreamwalker's Veil, 3 charges
 - A robe made of shimmering, almost transparent purple silk.
-- By spending one charge, the wearer can fully ignore one instance of damage to WIL.
+- By spending one charge, the wearer can fully ignore one instance of damage to PRS.
 - **Recharge**: Wear the robe during a full night of magically induced sleep.
 
 ### Hand of Ser Crufiks, 1 charge
@@ -250,7 +250,7 @@ The following is a list of Relics from all over the web, copied with permission.
 
 ### Halberd of the Moon, 3 charges
 - A masterfully crafted polearm with a crescent shaped axehead. Decorating the blade and spikes are silver inlays in swirling motives.
-- If the blade is reflecting natural moonlight, the wielder can expend a charge and treat the weapons attacks as enhanced, furthermore every time a creature is struck with the halberd they are harmed by moon poison taking 1 point of willpower damage.
+- If the blade is reflecting natural moonlight, the wielder can expend a charge and treat the weapons attacks as enhanced, furthermore every time a creature is struck with the halberd they are harmed by moon poison taking 1 point of Spirit damage.
 - In the light of a full moon, the wielder can expend all 3 charges and "cleave" a walkable passage through a body of water lasting until the moon becomes invisible.
 - **Recharge**: Place the halberd in its intended place in the moon-temple for 1 year.
 
@@ -272,7 +272,7 @@ The following is a list of Relics from all over the web, copied with permission.
 ### Manual of the Mighty
 - Also known as the _Volume of the Nimble_ or the _Tome of the Wise_.
 - A large, old-looking three-volume book with yellowed pages and a beaten cover.
-- It takes at least a month to study it and by doing so, you can increase your STR, DEX, or WIL score (depending on the book) by 1d4 points to a maximum of 18.
+- It takes at least a month to study it and by doing so, you can increase your STR, AGL, or PRS score (depending on the book) by 1d4 points to a maximum of 18.
 - **Recharge**: Place the book on a shelf in the fabled long lost library of shadows, and leave it there for 12 years.
 
 ### Wolfskin, 2 charges
@@ -429,7 +429,7 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - 3 charges. A peach wood ruyi scepter ornately carved with tree nymphs and talismanic writing. When the holder of this ruyi taps a tree and points to a spot within 20 feet of the tree, the tree will uproot, walk, and root in the indicated spot. The ruyi is charged by wood nymphs after the holder has done some (supposedly) small errand for them.
 
 ### Inkstone of Whispers
-- An inkstone from a sacred grotto where a forest hermit dwelt. If ink rubbed on this stone is used to write a target’s name on a leaf, all the leaves in the forest will whisper that name. If the target is within earshot, they are delirious for 1d8 rounds and must save against WIL or panic and flee for 1d6 rounds.
+- An inkstone from a sacred grotto where a forest hermit dwelt. If ink rubbed on this stone is used to write a target’s name on a leaf, all the leaves in the forest will whisper that name. If the target is within earshot, they are delirious for 1d8 rounds and must save against PRS or panic and flee for 1d6 rounds.
 - The ink cannot be used to write the same name more than once. The ink must be used fresh or it becomes ordinary ink.
 - Rubbing the ink and writing the name takes 3 turns. Ink rubbed in this stone is only effectual when using spring water from the same grotto whence the stone was taken.
 
@@ -464,11 +464,11 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - **Recharge**: Drip the venom of four different serpents into the mouth of the staff.
 
 #### Serpent
-- 3 HP, 12 DEX, bite(d6), Critical Damage: Victim loses d6 STR.
+- 3 HP, 12 AGL, bite(d6), Critical Damage: Victim loses d6 STR.
 
 ### Trident of Submission (d8), 3 charges.
 - A mother-of-pearl trident adorned with narwhal tusks.
-- When attacking, spending a charge forces the target to make a successful WIL save or surrender.
+- When attacking, spending a charge forces the target to make a successful PRS save or surrender.
 - **Recharge**: Become the slave of a companion for one week.
 
 ### Devourer, 1 charge
@@ -488,7 +488,7 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 
 ### Animus needle (d4)
 - By dealing **critical damage** with this this small copper needle, you leech the life force from one creature and cause the needle to glow a faint color (depending on the creature).
-- By sticking the charged needle into another object, you transfer the creatures soul to that new object. If the new creature is alive, the higher WIL prevails.
+- By sticking the charged needle into another object, you transfer the creatures soul to that new object. If the new creature is alive, the higher PRS prevails.
 
 ### Pleasant Dress
 - A light, nicely made sundress of durable yellow fabric. When worn, it is impossible for anyone to hold a negative opinion of the wearer, or for the wearer to hold a negative opinion of anyone else.
@@ -566,7 +566,7 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 ### Illusory Blade of Treachery (d8)
 - This elegant silvery weapon looks exactly like a longsword, but has the words "This is not a Longsword" engraved in it with flowery script. 
 - It doesn't count as a longsword for any effects, rules or laws that would take such in consideration. 
-- A PC can only fully use it after spending one month of training "unlearning" to see it as a longsword, after which, it deals damage to WIL instead of STR.
+- A PC can only fully use it after spending one month of training "unlearning" to see it as a longsword, after which, it deals damage to PRS instead of STR.
 
 ### Wand of Smoke, 4 charges
 - A wand roughly carved from charred wood that is hard as stone. 

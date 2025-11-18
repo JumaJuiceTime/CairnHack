@@ -238,7 +238,7 @@ Roll 1d20 for each column and combine the results.
 
 ### Agents
 
-- Horatia Confi, first of her order. Recovered the _Map of the Dead_ for the _Guild_. WIL 15.  
+- Horatia Confi, first of her order. Recovered the _Map of the Dead_ for the _Guild_. PRS 15.  
 
 #### Agenda
 
@@ -256,7 +256,7 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 - The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
 - Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate to introduce a new goal after a major event, alliance, or friction between one or more factions, etc.
 - Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
-- If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
+- If two factions are _opposed_, the faction _most at risk_ makes a PRS save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
 
 #### Faction Actions
 

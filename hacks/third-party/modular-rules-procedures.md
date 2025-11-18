@@ -34,7 +34,7 @@ A dungeon turn is approximately 10 minutes. Dungeon exploration can be turned in
 **4. End of turn:** GM updates time, and management of light, food, need to rest, or any sort of usage dice rolls can be made. 
 
 ### Dungeon Turn Movement 
-Players can move **carefully** about 200 ft. in a 10 minute turn.  Players moving carefully spot signs of all traps. Traps should be designed to be disarmed or subverted with ingenuity and creative thinking using common sense and inventory. Players can quickly move 600 ft. in a 10-minute turn. Players moving **quickly** may get a chance to roll under WIL to notice a trap (GM discretion). Otherwise, they may trigger a trap if it is concealed (usually 1-2 on a d6, adjust as necessary for trap deadliness).
+Players can move **carefully** about 200 ft. in a 10 minute turn.  Players moving carefully spot signs of all traps. Traps should be designed to be disarmed or subverted with ingenuity and creative thinking using common sense and inventory. Players can quickly move 600 ft. in a 10-minute turn. Players moving **quickly** may get a chance to roll under PRS to notice a trap (GM discretion). Otherwise, they may trigger a trap if it is concealed (usually 1-2 on a d6, adjust as necessary for trap deadliness).
 
 ### Searching
 - A quick search takes 1 minute, covers roughly a 30x30’ space, and reveals only the most obvious information.
@@ -166,16 +166,16 @@ Declare the amount of gold you’re spending and roll 2d6 to see how your evenin
 | 9      | **Bad Investment.** Invest all your spare coin in some smooth-tongued merchant’s scheme. Turns out it’s a sham. One of the towns merchants flees.                                                                                                                                                                                | **Killer Investment!** Invest all your spare cash in some smooth-tongued merchant’s scheme. Turns out it’s real! It returns 50% profits next d4 sessions.                                                                                                                                          |
 | 10     | Due to a **lost game of darts** and a few inflammatory remarks at the tavern, you make bitter enemies with a local rival adventuring party.                                                                                                                                                                                      | **Local celebrity.** Your ability to carouse with the common folk as lead them to see you as one of their own. The peasants of the settlement are thankful to have you around. You receive free room and board in this settlement of poor quality.                                                 |
 | 11     | **Beaten and robbed.** You are waylaid by a bunch of thugs during your drunken carousing. Collectively lose L6d100 coins.                                                                                                                                                                                                        | **Hot Goss.** Your time spent carousing has let you in on some juicy gossip. You learn one major secret about a person in authority.                                                                                                                                                               |
-| 12     | **The roof! The roof! The roof is on fire!** Accidentally start a conflagration Roll 1d6 twice. (1-2) burn down your favorite inn (3-5) some other den of ill repute is reduced to ash (6) a big chunk of town goes up in smoke. (1-2) no one knows it was you guys (3-5) one other person knows you did it (6) everybody knows. | **Heroic Carousing!** It was a night of truly epic debauchery. Everyone roll a d6 to see how your legend grew. (1) Re-roll HP for that level, take new result if higher, increase by 1 if lower. (2) Gain 1 STR (3) Gain 1 DEX (4) Gain 1 WIL, (5) Gain a random spell book (6) Gain Ld6 x 100 GP. |
+| 12     | **The roof! The roof! The roof is on fire!** Accidentally start a conflagration Roll 1d6 twice. (1-2) burn down your favorite inn (3-5) some other den of ill repute is reduced to ash (6) a big chunk of town goes up in smoke. (1-2) no one knows it was you guys (3-5) one other person knows you did it (6) everybody knows. | **Heroic Carousing!** It was a night of truly epic debauchery. Everyone roll a d6 to see how your legend grew. (1) Re-roll HP for that level, take new result if higher, increase by 1 if lower. (2) Gain 1 STR (3) Gain 1 AGL (4) Gain 1 PRS, (5) Gain a random spell book (6) Gain Ld6 x 100 GP. |
 
 ## Vices
 Vices serve as both character growth and a way to pressure PC’s pockets and keep them continuing to adventure & acquire wealth to support their vice. If PCs start out with a group debt, a vice is a nice way to continue bleeding their wealth after they pay off their debt. 
 
 ### Gaining Vices 
-Players can roll for a vice during character creation, or acquire one through the fiction of play. Roll a D10 for a random vice. Otherwise, consult the triggers for suggestions on what might trigger a character to develop a vice. You can require them failing a WIL save after hitting a trigger if you wish. Alternatively they can willingly take on a vice they find interesting. 
+Players can roll for a vice during character creation, or acquire one through the fiction of play. Roll a D10 for a random vice. Otherwise, consult the triggers for suggestions on what might trigger a character to develop a vice. You can require them failing a PRS save after hitting a trigger if you wish. Alternatively they can willingly take on a vice they find interesting. 
 
 ### Satisfying Vices 
-Vices must be appeased once a week or the PC must pass a WIL save. Failing a WIL save adds the deprived condition until they satisfy their vice. Appeasing a vice should cost money in some way, whether directly from money or indirectly via resources.
+Vices must be appeased once a week or the PC must pass a PRS save. Failing a PRS save adds the deprived condition until they satisfy their vice. Appeasing a vice should cost money in some way, whether directly from money or indirectly via resources.
 
 **1. Gambling**
 Playing cards, throwing dice, or other forms of risking money to games of chance.
@@ -247,10 +247,10 @@ Players can opt to absorb all damage and effects from an attack in exchange for 
 Below are some magic weapon damage types other than +1 damage. Magic damage type on a weapon should lower it’s damage by 1 dice size to account for the extra effect.
 
 - **Cold:** On a hit, target makes a STR save or next attack is impaired. 
-- **Thunder:** On a hit, target makes a DEX save or can’t move next round. 
-- **Necrotic:** On a hit, target makes a WIL save or loses next turn. 
+- **Thunder:** On a hit, target makes a AGL save or can’t move next round. 
+- **Necrotic:** On a hit, target makes a PRS save or loses next turn. 
 - **Poison:** On a hit, target makes a STR save or 1d4 damage for 1d4 rounds.
-- **Disintegration:** On a hit, target makes a DEX save vs instant obliteration & the wielder takes 1 fatigue. Exceptionally powerful & rare.
+- **Disintegration:** On a hit, target makes a AGL save vs instant obliteration & the wielder takes 1 fatigue. Exceptionally powerful & rare.
 
 ### Special Materials
 Most weapons will be made from steel. Some special weapons, however, could potentially come from different materials. Consider making a weapon of a special material one dice size less to compensate for its advantages. 

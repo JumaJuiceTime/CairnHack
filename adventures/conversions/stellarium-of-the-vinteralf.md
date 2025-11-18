@@ -14,12 +14,12 @@ grand_parent: Adventures
 ## Encounters
 
 ### Vinteralf
-d6+6 HP, Armor 2, STR 16, WIL 14
+d6+6 HP, Armor 2, STR 16, PRS 14
 - Driven to serve Thavir and reclaim the Stellarium's treasures
 - d6 weapons (spears, halberds, and the like)
 
 ### The Wyrm Jokun
-13 HP, 3 Armor, STR 20, DEX 12 (20 if flying), WIL 14
+13 HP, 3 Armor, STR 20, AGL 12 (20 if flying), PRS 14
 - Driven to gather treasures in her hoard
 - Breath weapon does d20 (blast) 1x/day only
 - d12 bite, 2x d6 claw
@@ -30,11 +30,11 @@ d6+6 HP, Armor 2, STR 16, WIL 14
 ## Dangers
 
 ### Glacier Face
-- DEX save or d6 damage
+- AGL save or d6 damage
 
 ### Hot Spring Cavern
 - Roll a d6; on a 1-2, a geyser is about to blast
-- DEX save or d6 damage
+- AGL save or d6 damage
 
 ## Treasure
 ### Starsword Grugnir

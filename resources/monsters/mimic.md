@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Mimic
 
-9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
+9 HP, 2 Armor, 13 STR, 6 AGL, 12 PRS, bite (d8)
 
 - Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.
 - Remain motionless while in disguise, surprising anyone that comes near.

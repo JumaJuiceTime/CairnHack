@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Water Elemental
 
-14 HP, 15 STR, 16 DEX, 4 WIL, spray (d8)
+14 HP, 15 STR, 16 AGL, 4 PRS, spray (d8)
 
 - Rare spirits of lakes, rivers, and seas. 
 - Mundane attacks against the Water Elemental are _impaired_.

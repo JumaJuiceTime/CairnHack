@@ -11,11 +11,11 @@ title: A Man on the Road
 - Thanks to Kevin Hopf for this conversion.
 
 ## The Man
-7 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL
+7 HP, 3 Armor, 18 STR, 16 AGL, 18 
 - Hard to Kill: Falls unconscious for 1d6 rounds upon receiving critical damage, then rises with 5 less STR than his previous maximum (surprising anyone looting his corpse) unless finished off (see **Executions Confounded**).
 
 ### His Horse
-7 HP, 1 Armor, 12 STR, 10 DEX, 10 WIL, hooves (d8+d8)
+7 HP, 1 Armor, 12 STR, 10 AGL, 10 , hooves (d8+d8)
 
 ### His Weapon of Choice
 1. Saber (1d8, 60 ft. charge doubles damage)

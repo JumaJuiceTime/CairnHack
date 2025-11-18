@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Hobgoblin
 
-6 HP, 2 Armor, 14 STR, 8 DEX, 11 WIL, mace (d8)
+6 HP, 2 Armor, 14 STR, 8 AGL, 11 PRS, mace (d8)
 
 - Large and burly relatives of goblins. Dwell in underground fortresses until called for war.
 - Automatically succeed in Morale Saves if a commander is present. 

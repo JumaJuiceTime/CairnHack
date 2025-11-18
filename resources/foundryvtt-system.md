@@ -27,12 +27,12 @@ This guide describes how to automate the process of importing monster descriptio
 
 #### 1. Prepare Your Monsters in Markdown
 
-Make sure your monsters are written in markdown format. Each file should include all relevant stats, including HP, STR, DEX, WIL, armor, and attacks. For example:
+Make sure your monsters are written in markdown format. Each file should include all relevant stats, including HP, STR, AGL, PRS, armor, and attacks. For example:
 
 ```markdown
 # Black Dragon
 
-16 HP, 1 Armor, 13 STR, 18 DEX, 14 WIL, bite (d12), claws (d10+d10)
+16 HP, 1 Armor, 13 STR, 18 AGL, 14 PRS, bite (d12), claws (d10+d10)
 - Amphibious dragons with glossy black scales and thick hides. 
 - Dwell in swamps or similarly dangerous environments.
 ```
@@ -107,13 +107,13 @@ let updateActor = async function(monsterData) {
                         value: parseInt(monsterData.stats.str),
                         max: parseInt(monsterData.stats.str)
                     },
-                    DEX: {
-                        value: parseInt(monsterData.stats.dex),
-                        max: parseInt(monsterData.stats.dex)
+                    AGL: {
+                        value: parseInt(monsterData.stats.agl),
+                        max: parseInt(monsterData.stats.agl)
                     },
-                    WIL: {
-                        value: parseInt(monsterData.stats.wil),
-                        max: parseInt(monsterData.stats.wil)
+                    PRS: {
+                        value: parseInt(monsterData.stats.prs),
+                        max: parseInt(monsterData.stats.prs)
                     }
                 },
                 description: monsterData.description
@@ -164,10 +164,10 @@ let updateActor = async function(monsterData) {
             "system.hp.max": parseInt(monsterData.stats.hp), // Set the max HP here
             "system.abilities.STR.value": parseInt(monsterData.stats.str),
             "system.abilities.STR.max": parseInt(monsterData.stats.str), // Set the max STR here
-            "system.abilities.DEX.value": parseInt(monsterData.stats.dex),
-            "system.abilities.DEX.max": parseInt(monsterData.stats.dex), // Set the max DEX here
-            "system.abilities.WIL.value": parseInt(monsterData.stats.wil),
-            "system.abilities.WIL.max": parseInt(monsterData.stats.wil), // Set the max WIL here
+            "system.abilities.AGL.value": parseInt(monsterData.stats.agl),
+            "system.abilities.AGL.max": parseInt(monsterData.stats.agl), // Set the max AGL here
+            "system.abilities.PRS.value": parseInt(monsterData.stats.prs),
+            "system.abilities.PRS.max": parseInt(monsterData.stats.prs), // Set the max PRS here
             "system.description": monsterData.description
         };
 

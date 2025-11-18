@@ -22,14 +22,14 @@ title: Willow
 | 6   | The user can see the plan of the oakalisk: reveal some information about what will happen to willow on the next day (p. 32) |
 
 #### Coral Guardian (p. 16)
-HP 17, armor 1, STR 15, DEX 6, WIL 12, double slam (1d6 + 1d6).
+HP 17, armor 1, STR 15, AGL 6, PRS 12, double slam (1d6 + 1d6).
 
 - The guardian is powered by eel electricity and is nearly entirely out of power, it stops anyone from entering the dungeon. It will agree to allow the players an invitation to visit the elves if players it a jar of electricity or a thunderstone.
 - Immune to sleep
 - The guardian repeatedly turns its nose up at the players unless they display high class
 
 #### Nereocystis (p. 16)
-10 HP, 8 STR, 13 DEX, 13 WIL
+10 HP, 8 STR, 13 AGL, 13 PRS
 
 - A serial killer seaweed who was imprisoned in room 6. He will immediately try and escape. He is slimey, raspy and manipulative. He will lie to the players that he is the king of the seaweedlings and will promise to reward them for freeing him if needed.
 - Can alter its shape.
@@ -37,53 +37,53 @@ HP 17, armor 1, STR 15, DEX 6, WIL 12, double slam (1d6 + 1d6).
 #### Dungeon Monster (p. 19)
 
 #### Aquatic elf skeleton
-5 HP, 1 Armor, STR 10, DEX 13, trident (d6)
+5 HP, 1 Armor, STR 10, AGL 13, trident (d6)
 
 - These elves have forgotten everything except their court manners and will kill those do not display proper court etiquette
 - Immune to sleep and charm
 
 #### Undead Seaweedling 
-4 HP, STR 6, DEX 10, WIL 3, leeching seaweed sendrils (1d6, 10ft reach).
+4 HP, STR 6, AGL 10, PRS 3, leeching seaweed sendrils (1d6, 10ft reach).
 
 - Seaweedlings (a seaweed race living in the lake) who entered the dungeon out of curiosity and were corrupted by the dark magic the elves used to preserve their lives.
 - Recovers 1 HP for every successful attack
 - Immune to sleep and charm
 
 ### Seaweed Shambling Mound
-10 HP, 13 STR, 12 DEX, 14 WIL, Bone & Chain Claws (1d8 + 1d8).
+10 HP, 13 STR, 12 AGL, 14 PRS, Bone & Chain Claws (1d8 + 1d8).
 - Monstrosities formed of seaweed, bone, metal chains and coral. These creatures fear happiness, and creep closer and closer as anxiety, sadness and despair are vocalized by the PCs.
 - Pass through area 4x4 ft
 - Armor 3 from normal attacks
 - Double damage from explosions and sprays attacks
 
 ### Aquatic Elf Skeleton Mage
-HP 4, STR 10, DEX 10, WIL 13
+HP 4, STR 10, AGL 10, PRS 13
 - These royal members of the Coral Court have glowing pale blue lights in their eye sockets
 - Spells: cure wounds – mirror image – ice ray – fire curse
 
 ### Undead Electric Eel
-HP 6, STR 9, DEX 10, WIL 8, bite (1d6)
+HP 6, STR 9, AGL 10, PRS 8, bite (1d6)
 - giant eels were once used as a power source by the Coral Court for lighting, magical devices and rituals. Their electric shock can still trigger ancient mechanisms
 - immune to sleep and charm
 - Electric Shock: blast 1d8
 
 ### Undead Water Elemental Skeleton
-HP 13, armor 1, STR 10, DEX 12, WIL 14, sword strike (1d6, blast)
+HP 13, armor 1, STR 10, AGL 12, PRS 14, sword strike (1d6, blast)
 - Ancient elven warrior guards the treasure of the Coral Court. A  water elemental was fused to her bones. She can break down into a  pile of bone shards and pass under doors.
 - If the coral boat from the treasure horde is thrown into her magical  water, the boat will expand for an instant, completely destroying her.
 
 ### Smoke Dragon (p21) 
-HP 5, STR 9, DEX 9, WIL 13.  Scorching Smoke (d8)
+HP 5, STR 9, AGL 9, PRS 13.  Scorching Smoke (d8)
 - A dragon shaped cloud filled with embers with glowing red eyes
 - Can only be harmed by magic attacks
 - Spells: fog cloud – fire curse
 
 ### Magical Guardian (p24)
-10 HP, armor 1 14 STR, 8 DEX, 10 WIL, weapon 1d8
+10 HP, armor 1 14 STR, 8 AGL, 10 PRS, weapon 1d8
 - A magical construct that the wizards have made to guard their home.  It speaks in a very fast and sharp monotone voice. Its only interest is in competitions of strength
 
 ### Necrotic Trent (p. 29)
-HP 13, Armor 2, STR 13, DEX 6, WIL 10, 2 strikes (1d10 + 1d10 blast).
+HP 13, Armor 2, STR 13, AGL 6, PRS 10, 2 strikes (1d10 + 1d10 blast).
 Once a lawful guardian of the forest, this Trent was corrupted by  the influence of the Oakalisk's power. The Trent serves the Oakalisk, obeying its every command. It has currently been tasked with expanding the corrupted wood. Any creatures in its way will be  killed and brought to the Oakalisk to be transformed into monstrosities.
 - Controls trees up to 200ft
 - Necrotic Bolt: 1d10 damage. Chance of recharging once per round on a roll of 5 or 6 (1d6)
@@ -91,13 +91,13 @@ Once a lawful guardian of the forest, this Trent was corrupted by  the influence
 - If it is submerged in the running water of the river, it's corruption will be washed away and it will become benevolent again
 
 ### Ashen Dryad (p. 30) 
-HP 5, 10 STR, 10 DEX, 14 WIL, Necrotic Sword (1d8).
+HP 5, 10 STR, 10 AGL, 14 PRS, Necrotic Sword (1d8).
 - Created by the Necrotic Trent out of ashes of necrotic wood. The  Ashen Dryads serve as assassins and scouts for their creator, obeying its every command
 - Invisibility (2 times per day – 1d4 rounds) 
 - Darkvision
 - Ashen Dryads contain a black marble stone core in their chest. This  can be used to create magical orbs, or shattered with a hammer to release a cloud of darkness in a 15-foot radius for 1 hour
 
-**Ashen Dryad (champion)** HP 6, 11 STR, 11 DEX, 14 WIL, flaming sword (1d10)
+**Ashen Dryad (champion)** HP 6, 11 STR, 11 AGL, 14 PRS, flaming sword (1d10)
 
 - The leader of the Ashen Dryads was created by the Necrotic Trent from a limb of Dragonwood (see pg 21). It is coated in flames and so cannot enter water
 - Darkvision
@@ -107,31 +107,31 @@ HP 5, 10 STR, 10 DEX, 14 WIL, Necrotic Sword (1d8).
 
 ## Overland Monsters (p. 31)
 
-### Rat Folk, 4 HP, 1 Armor 8 STR, 10 DEX, 8 WIL, weapon (1d6) or bite (1d8)
+### Rat Folk, 4 HP, 1 Armor 8 STR, 10 AGL, 8 PRS, weapon (1d6) or bite (1d8)
 - Enemies of the Crow folk, Rat folk live in tunnels under the forest, and come out to scavage at night.
 - Immune to disease
 - Darkvision
 
 ### Undead Crow Folk
-5 HP, 10 STR, 10 DEX, 3 WIL  short bow (1d6)
+5 HP, 10 STR, 10 AGL, 3 PRS  short bow (1d6)
 - Crow people turned in skeletons by the Oskalisk. In the woods they attack the intruders from the sky
 -  Ability to Fly
 - Immune to sleep and charm
 
 ### Venus Wolf
-6 HP, 9 STR, 12 DEX, 3 WIL, bite (1d6 + 1),  3 plant traps (1d4 + 1d4 + 1d4, blast)
+6 HP, 9 STR, 12 AGL, 3 PRS, bite (1d6 + 1),  3 plant traps (1d4 + 1d4 + 1d4, blast)
 - The Necrotic Trent has been killing off the wolf population and bringing them to the Oakalisk. Magic seeds are planted in their
 skeleton bodies and giant venus fly traps grow out from the gaps between their ribs
 - Immune to sleep and charm
 
 ### Wailing Willow
-10 HP, 1 armor, 14 STR, 3 DEX, 10 WIL, shortbow (1d6) & 2 weapons (1d6 + 1d6).
+10 HP, 1 armor, 14 STR, 3 AGL, 10 PRS, shortbow (1d6) & 2 weapons (1d6 + 1d6).
 - Grown by the Necrotic Trent, these trees are planted along the riverbank and will attack boats
 - They will instantly wither if the 'watching skull' on the upmost branch is destroyed or if all the skeleton buds die
 - Special: fireball (2d6) – 4 per day
 
 ### Vine Skeletons
-5 HP, 1 armor, 10 STR, 13 DEX, 10 WIL, weapon 1d6
+5 HP, 1 armor, 10 STR, 13 AGL, 10 PRS, weapon 1d6
 - These human skeletons have been fused with necrotic vines, which act as muscles and ligaments as well as extra limbs.
 - Immune to sleep and charm
 

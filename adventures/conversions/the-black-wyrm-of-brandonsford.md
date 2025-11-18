@@ -15,11 +15,11 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 
 ### Lady Hilda
 
-8 HP, 3 Armor, 16 STR, 9 DEX, 16 WIL, sword (d8) or dagger (d6)
+8 HP, 3 Armor, 16 STR, 9 AGL, 16 PRS, sword (d8) or dagger (d6)
 
 ### Malzazerick the Magnificent
 
-3 HP, 11 STR, 11 DEX, 15 WIL, dagger (1d6), Spells: _Charm_, _Arcane Arrow_
+3 HP, 11 STR, 11 AGL, 15 PRS, dagger (1d6), Spells: _Charm_, _Arcane Arrow_
 
 - **Student of the Arcane**: Can Decipher magical runes, inscriptions or language.
 - _Charm_: A creature you can see treats you as a friend.
@@ -27,19 +27,19 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 
 ### “Drop Dead” Ned
 
-4 HP, 1 Armor, 11 STR, 13 DEX, 12 WIL, silver dagger (d6) or shortbow (d6)
+4 HP, 1 Armor, 11 STR, 13 AGL, 12 PRS, silver dagger (d6) or shortbow (d6)
 
-- **Ambush**: If the initial DEX save to begin combat is successful his first attack is _enhanced_.
+- **Ambush**: If the initial AGL save to begin combat is successful his first attack is _enhanced_.
 - **Killer Wasp**: Ned can release in lieu of an attack.  It will pursue its target unerringly.
 
 #### Killer Wasp
 
-2 HP, 3 STR, 15 DEX, 3 WIL, stinger (d4)
+2 HP, 3 STR, 15 AGL, 3 PRS, stinger (d4)
 
 
 ### Squints
 
-3 HP, 1 Armor, 8 STR, 14 DEX, 9 WIL, dagger (d6) or sling (d6)
+3 HP, 1 Armor, 8 STR, 14 AGL, 9 PRS, dagger (d6) or sling (d6)
 
 ### Warwick the Smith
 
@@ -55,52 +55,52 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 
 ### Naggeneen, the Clurichaun
 
-3 HP, 5 STR, 15 DEX, 12 WIL
+3 HP, 5 STR, 15 AGL, 12 PRS
 
 - Can turn invisible, fly, and create illusions but will lose his powers if apprehended.
 
 ## The Woods
 ### Wolves
 
-4 HP, 8 STR, 14 DEX, 3 WIL, bite (d6)
+4 HP, 8 STR, 14 AGL, 3 PRS, bite (d6)
 
 - **Ravenous**: These wolves are so starved they will ignore **Morale** Saves related to casualties, only saving whenever they are reduced to 0 HP.
 ### Drunk Goblins
 
-2 HP, 8 STR, 8 DEX, 8 WIL, 1 weapon (d6)
+2 HP, 8 STR, 8 AGL, 8 PRS, 1 weapon (d6)
 
 ### Idiot Dragon Hunters
 
-2 HP, 12 STR, 10 DEX, 8 WIL, pitchfork (d6)
+2 HP, 12 STR, 10 AGL, 8 PRS, pitchfork (d6)
 
 ### Dryad
 
-8 HP, 2 Armor, 12 STR, 16 DEX, 9 WIL
+8 HP, 2 Armor, 12 STR, 16 AGL, 9 PRS
 
 - _Charm Person_: A creature you can see treats you as a friend.
 
 ### Stirges
 
-3 HP, 4 STR, 14 DEX, 6 WIL, bite (d4)
+3 HP, 4 STR, 14 AGL, 6 PRS, bite (d4)
 
 - **Critical Damage**: Latch onto their victim, dealing an additional 1d4 STR damage every **Round** thereafter.
 
 ### Sprites
-6 HP, 4 STR, 16 DEX, 11 WIL
+6 HP, 4 STR, 16 AGL, 11 PRS
 
 - **Untouchable**: Cannot be targeted by ranged attacks and melee attacks are _impaired_. Anyone who can see through illusions nullifies the effect.  
 
 ### Golden Fox
 
-8 HP, 1 Armor, 8 STR, 16 DEX, 8 WIL, bite (d6)
+8 HP, 1 Armor, 8 STR, 16 AGL, 8 PRS, bite (d6)
 
 ### Fae Hounds
 
-6 HP, 1 Armor, 8 STR, 14 DEX, 8 WIL, bite (d6)
+6 HP, 1 Armor, 8 STR, 14 AGL, 8 PRS, bite (d6)
 
 ### Pompous Elvish Hunters
 
-4 HP, 2 Armor, 10 STR, 14 DEX, 10 WIL, bow (d8), a spellbook
+4 HP, 2 Armor, 10 STR, 14 AGL, 10 PRS, bow (d8), a spellbook
 
 - For spells consider any of the following table or see any ([random spell](/cairn-srd#100-spells)):
 
@@ -130,11 +130,11 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 
 ### Goblin Scavengers
 
-3 HP, 1 Armor, 12 STR, 10 DEX, 10 WIL, 1 weapon (d6)
+3 HP, 1 Armor, 12 STR, 10 AGL, 10 PRS, 1 weapon (d6)
 
 ## The Dragon
 
-8 HP, 3 Armor, 18 STR, 16 DEX, 18 WIL, venomous bite (d12) or breath (d12, _blast_), _detachment_
+8 HP, 3 Armor, 18 STR, 16 AGL, 18 PRS, venomous bite (d12) or breath (d12, _blast_), _detachment_
 
 - **Scales of Glistening Black**: Immune to normal weapons unless such attacks are stated to specifically target the mouth or eyes. Such attacks are _impaired_ instead.
 - **Critical Damage (bite)**: Target is crushed in jaws dripping with poison. Their corpse becomes visibly corrosive and damaging to the touch (d6 to STR). If the victim is wearing anything made of precious metals or gems, the dragon will spend the next **Round** securing it.
@@ -144,49 +144,49 @@ Conversion by [Derek B.](https://widdershinswanderings.bearblog.dev/) and Yochai
 
 ### Nixie Traders
 
-2 HP, 4 STR, 14 DEX, 9 WIL, trident (d4)
+2 HP, 4 STR, 14 AGL, 9 PRS, trident (d4)
 
 - _Charm Person_: A creature you can see treats you as a friend.
 - **Water Breathing**: Can grant a target the ability to breathe underwater for a day and night.
 
 ### Leprechaun Fisherman
 
-3 HP, 8 STR, 10 DEX, 10 WIL 
+3 HP, 8 STR, 10 AGL, 10 PRS 
 
 - Can turn invisible, polymorph nonliving objects, and create illusions at will.
 
 ### River Troll
 
-8 HP, 2 Armor, 14 STR, 8 DEX, 14 WIL, claws (d6+d6)
+8 HP, 2 Armor, 14 STR, 8 AGL, 14 PRS, claws (d6+d6)
 
-- **False Log**: The first person to attempt to cross the log is not granted a DEX Save to go first in combat.
+- **False Log**: The first person to attempt to cross the log is not granted a AGL Save to go first in combat.
 - Can be distracted with food.
 
 ### Goblins
 
-3 HP, 1 Armor, 9 STR, 11 DEX, 10 WIL, 1 weapon (d6)
+3 HP, 1 Armor, 9 STR, 11 AGL, 10 PRS, 1 weapon (d6)
 
 ### Giant Beaver
 
-7 HP, 1 Armor, 13 STR, 14 DEX, 12 WIL, bite (d8)
+7 HP, 1 Armor, 13 STR, 14 AGL, 12 PRS, bite (d8)
 
 ### Fauns' Grove
 - **Wine**: STR save to avoid losing consciousness for one **Watch**(8 hours).
 
 ### Giant
 
-10 HP, 2 Armor, 16 STR, 9 DEX, 12 WIL, fists (d8+d8), _detachment_
+10 HP, 2 Armor, 16 STR, 9 AGL, 12 PRS, fists (d8+d8), _detachment_
 
 ### Brother Dirk
 
-3 HP, 9 STR, 8 DEX, 15 WIL, fists (d4)
+3 HP, 9 STR, 8 AGL, 15 PRS, fists (d4)
 
 - _Cure Light Wounds_: Restore 1d4 STR per day to a creature you can touch.
 
 ## Goblin Castle
 ### Hogboon, the Goblin King
 
-8 HP, 2 Armor, 14 STR, 11 DEX, 15 WIL, sword (d8)
+8 HP, 2 Armor, 14 STR, 11 AGL, 15 PRS, sword (d8)
 
 - _Charm Person_: A creature you can see treats you as a friend.
 - _Sleep_: A creature you can see falls into a light sleep.
@@ -202,7 +202,7 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 ### Gray Ooze
 
-6 HP, 4 STR, 12 DEX, 6 WIL, touch (d8+d8)
+6 HP, 4 STR, 12 AGL, 6 PRS, touch (d8+d8)
 - **Critical Damage**: Victims are engulfed. Armor is degraded by 1 point (destroyed if 0 Armor is reached) per round. Unarmored victims take d8 STR damage each **Round** until slain or rescued.  
 
 ### Chapel
@@ -212,27 +212,27 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 ## Lower Level
 ### Sir Alfred
 
-6 HP, 2 Armor, 11 STR, 8 DEX, 15 WIL, greatsword (d8)
+6 HP, 2 Armor, 11 STR, 8 AGL, 15 PRS, greatsword (d8)
 
 ### Sir Wyllt's Skull
 
-8 HP, 1 Armor, 4 STR, 14 DEX, 15 WIL, bite (d6)
+8 HP, 1 Armor, 4 STR, 14 AGL, 15 PRS, bite (d6)
 
 ### Food
 - **Amphorae**: Eating the food requires a STR save to not become **Deprived**.
 
 ### Giant Rat
 
-2 HP, 1 Armor, 8 STR, 12 DEX, 6 WIL, bite (d4)
+2 HP, 1 Armor, 8 STR, 12 AGL, 6 PRS, bite (d4)
 
 ### Giant Spider
 
-6 HP, 1 Armor, 8 STR, 14 DEX, 6 WIL, bite (d8)
+6 HP, 1 Armor, 8 STR, 14 AGL, 6 PRS, bite (d8)
 - **Critical Damage**: Death by poison within one **Round**.
 
 ### Sir Myrddin’s Ghost
 
-5 HP, 6 STR, 15 DEX, 15 WIL, touch (d6, ignores armor) or **Call to Arms**
+5 HP, 6 STR, 15 AGL, 15 PRS, touch (d6, ignores armor) or **Call to Arms**
 
 - **Incorporal**: Cannot be harmed by normal weapons or means.
 - **Call to Arms**: Statue hurls itself at target, dealing d10 damage. 
@@ -244,7 +244,7 @@ See [above](/adventures/conversions/the-black-wyrm-of-brandonsford/#goblins)
 
 ### Sir Wyllt's Skeleton
 
-6 HP, 2 Armor, 11 STR, 8 DEX, 15 WIL, axe (d8, _enhanced_ against unarmored)
+6 HP, 2 Armor, 11 STR, 8 AGL, 15 PRS, axe (d8, _enhanced_ against unarmored)
 - **Critical damage**: roll for random body part to be severed (1-2: leg, 2-5: arm, 6: head)
 
 ### Crypt of Sir Myrddin
@@ -278,7 +278,7 @@ See the table below for random Cleric Spells. Refer to the following spells in [
 
 ### Maiden Statue
 
-8 HP, 2 Armor, 15 STR, 4 DEX, 18 WIL, stone sword (d8)
+8 HP, 2 Armor, 15 STR, 4 AGL, 18 PRS, stone sword (d8)
 
 - **Body of Stone**: Attacks made with cutting or piercing weapons are _impaired_.
 

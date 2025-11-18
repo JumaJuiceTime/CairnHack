@@ -433,7 +433,7 @@ Very austere, with only a simple **cot** and small dining **table**.
 
 #### Sweeney
 
-12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
+12 HP, 2 Armor, 13 STR, 15 AGL, 17 PRS, yew bow (d8)
 
 - A cantankerous, mossy old man. If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
 - Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill, he will ask the party for help expelling the Giant Spiders at **9**.
@@ -485,7 +485,7 @@ A long **tree** lays across a small glade at the intersection of two **trails**.
 
 #### Grizzly Bear
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+6 HP, 15 STR, 13 AGL, 5 PRS, claws (d8+d8)
 
 - Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
 - Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
@@ -513,7 +513,7 @@ A gray forest **sanctuary** stands at the intersection of four trails. In its ce
 
 #### Wood Troll
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+10 HP, 15 STR, 12 AGL, 7 PRS, bite (d8), club (d10)
 
 - Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
 - If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
@@ -564,13 +564,13 @@ A black **boar** limps noisily near a large **mass** of black thread and trees. 
 
 #### Boar
 
-4 HP, 12 STR, 5 DEX, 6 WIL, tusks (d6+d6)
+4 HP, 12 STR, 5 AGL, 6 PRS, tusks (d6+d6)
 
 #### **Black Silk Spider**
 
-4 HP, 4 STR, 13 DEX, 5 WIL, bite (d8)
+4 HP, 4 STR, 13 AGL, 5 PRS, bite (d8)
 
-- **Critical Damage:** Poison paralyzes the victim and deals an additional d4 DEX damage. The victim is then dragged to the spider's nest to be eaten.
+- **Critical Damage:** Poison paralyzes the victim and deals an additional d4 AGL damage. The victim is then dragged to the spider's nest to be eaten.
 
 ### 9 - Fishing Hut
 

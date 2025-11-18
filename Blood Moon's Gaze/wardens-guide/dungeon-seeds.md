@@ -479,7 +479,7 @@ A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of th
 
 ### Basilisk
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 HP, 1 Armor, 12 STR, 13 AGL, 13 PRS, bite (d10)
 
 - Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
 - Fighting a **Basilisk** without meeting its gaze is difficult (attacks facing it are _impaired_).
@@ -525,7 +525,7 @@ Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscu
 
 #### Druid Cultist 
 
-5 HP, 11 STR, 12 DEX, 8 WIL, petrified short sword (d8)
+5 HP, 11 STR, 12 AGL, 8 PRS, petrified short sword (d8)
 
 - Wears a red or blue robe to indicate their factional allegiance. Are otherwise indistinguishable.
 
@@ -537,7 +537,7 @@ Four **pillars** are arranged in a **square** pattern around a white **rod** sus
 
 - **Pillars**: Built from floor to ceiling and made of petrified wood. 
   - The space between the pillars is protected by a magical, impenetrable barrier. At least two pillars must be destroyed for the barrier to dissolve. 
-  - If two _adjacent_ pillars are destroyed, the room will collapse on its occupants (DEX save or take 12 STR damage).
+  - If two _adjacent_ pillars are destroyed, the room will collapse on its occupants (AGL save or take 12 STR damage).
 - **Rod**: A facsimile of the **Woodturn** found in **9**, but lacks any real power.
 
 ### 8 - Nest
@@ -553,7 +553,7 @@ The floor is heavily broken, segmented by raised **tiles** of petrified flooring
 
 #### Burrowing Horror
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+6 HP, 1 Armor, 16 STR, 11 AGL, 4 PRS, bite (d10), acid squirt (d8, _blast_)
 
 - Huge insectoids with multiple legs and shiny black eyes. Subsists from dirt, roots, and flesh.
 - Burrows just beneath the surfaces to ambush unsuspecting creatures.

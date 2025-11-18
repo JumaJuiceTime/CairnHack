@@ -81,7 +81,7 @@ grand_parent: Blood Moon's Gaze
 
 ## Homunculus Nail, 1 use, _petty_
 
-  - Prick a finger with the pointy end and hammer into any small object to form a loyal servant [3 HP, 4 STR, 13 DEX, 5 WIL] completely devoted to you. If not destroyed, it will outlive you.
+  - Prick a finger with the pointy end and hammer into any small object to form a loyal servant [3 HP, 4 STR, 13 AGL, 5 PRS] completely devoted to you. If not destroyed, it will outlive you.
 
 ## Honest Earworm, 1 use
 
@@ -89,7 +89,7 @@ grand_parent: Blood Moon's Gaze
 
 ## Jar of Ants
 
-  - Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consumes a ration every two days.
+  - Break to release a colony of fire ants [6 HP, 2 STR, 10 AGL, 1 PRS, bite (d10), _detachment_]. Consumes a ration every two days.
 
 ## Last Breath (d6), 1 charge
 
@@ -106,12 +106,12 @@ grand_parent: Blood Moon's Gaze
 
 ## Mace of the Kingslayer (d8), 2 charges
 
-  - Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgment.
+  - Hold the weapon aloft and shout an order or declaration. Any who fail a PRS save must obey, against their better judgment.
   - **Recharge**: Deliver a fatal blow to the leader of a group or faction.
 
 ## Moth Mirror, _bulky_
 
-  - A full-length, double-sided glass mirror. Step into the mirror to be transported to another mirror you know. You come out of the other side as an enormous swarm of buzzing moths, striking those around you with paralysis (WIL save to avoid) as they gaze upon you in horror. You can revert to your normal form at will. The mirror only operates in one direction.
+  - A full-length, double-sided glass mirror. Step into the mirror to be transported to another mirror you know. You come out of the other side as an enormous swarm of buzzing moths, striking those around you with paralysis (PRS save to avoid) as they gaze upon you in horror. You can revert to your normal form at will. The mirror only operates in one direction.
 
 ## Muffle Dust, 2 uses
 
@@ -144,7 +144,7 @@ grand_parent: Blood Moon's Gaze
 
 ## Skull Whistle, 3 charges
 
-  - Produces a chilling scream that forces any who hear it (including the blower) to make a WIL save or become temporarily incapacitated.
+  - Produces a chilling scream that forces any who hear it (including the blower) to make a PRS save or become temporarily incapacitated.
   - **Recharge**: Feed the instrument a clump of human hair pulled from a living skull.
 
 ## Soul Clump
@@ -163,7 +163,7 @@ grand_parent: Blood Moon's Gaze
 
 ## Stone Eater, 1 use
 
-  - A rodent-sized centipede that consumes and digests stone, capable of cutting a small tunnel in under an hour. It can be used more than once, but only if you can catch it (DEX 18).
+  - A rodent-sized centipede that consumes and digests stone, capable of cutting a small tunnel in under an hour. It can be used more than once, but only if you can catch it (AGL 18).
 
 ## Stonewax Gum, 3 uses, _petty_
 
@@ -171,7 +171,7 @@ grand_parent: Blood Moon's Gaze
 
 ## Sponge Army, 1 use
 
-  - A dozen miniature soldiers made of carved sea sponges. When splashed with water, they grow to full size [8 HP, 6 STR, 13 DEX, 5 WIL, hardened sponge (d6), _detachment_] and follow the orders of the person they see until they are destroyed or dry out completely (about 10 minutes).
+  - A dozen miniature soldiers made of carved sea sponges. When splashed with water, they grow to full size [8 HP, 6 STR, 13 AGL, 5 PRS, hardened sponge (d6), _detachment_] and follow the orders of the person they see until they are destroyed or dry out completely (about 10 minutes).
 
 ## Tupshead Crown, +1 Armor, _bulky_
 
@@ -201,7 +201,7 @@ grand_parent: Blood Moon's Gaze
 ## Wonder Bar, 1 charge
 
   - Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
-  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (WIL save to succeed). You can make only one attempt each day.
+  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (PRS save to succeed). You can make only one attempt each day.
 
 ## Wraith Lantern, 1 charge
 

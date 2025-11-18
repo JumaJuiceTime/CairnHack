@@ -37,7 +37,7 @@ grand_parent: Blood Moon's Gaze
 
 ## Attributes
 
-- Player Characters have just three Attributes: (<**Strength (STR>**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
+- Player Characters have just three Attributes: (<**Strength (STR>**, **Agility (AGL)**, **Presence (PRS)**, and **Spirit (SPI)**). 
 - Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
 - Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
 

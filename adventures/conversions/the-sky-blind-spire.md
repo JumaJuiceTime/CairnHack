@@ -62,7 +62,7 @@ In addition to the number “six” on the floor, there’s a staircase leading 
 - Window on far side of the fountain has a chain.
 
 ### Undines
-13hp 13 STR, 18 DEX, 15 WIL, pressure jet (d8)
+13hp 13 STR, 18 AGL, 15 PRS, pressure jet (d8)
 - _Critical damage_: overwhelmed by the wave and pushed far away.
 - Impair any damage against them unless it would freeze/boil water.
 
@@ -78,7 +78,7 @@ This room stinks like a wharf and the floor is covered in mud, sticks, and bird 
 - Exits lead to the hallway of small chambers, up a flight of stairs to Room 8, and out to another room with a door visible.
 
 ### Dire Pelican
-15 HP, 1 Armor, 15 STR, 15 DEX, 3 WIL, beak (d10)
+15 HP, 1 Armor, 15 STR, 15 AGL, 3 PRS, beak (d10)
 - Swallow Whole on _critical damage_ to be kept alive in stomach for later feeding to young.
 - Stomach has d4-1 live people inside already.
 
@@ -100,16 +100,16 @@ This hall has two stairways with a landing in between. Four large statues are ar
 - Exits in all directions.
 
 ### Skeleton
-6 HP, 2 Armor, 10 STR, 13 DEX, 12 WIL, sword (d6).
+6 HP, 2 Armor, 10 STR, 13 AGL, 12 PRS, sword (d6).
 - Shatters at 0 STR, but reforms next turn unless pieces are kept apart.
 - Falls into a pile of bones if idols are destroyed, but this will summon an angry spectral mentor.
 
 ### Hungry Spirits (room 13)
-6 HP, 5 STR, 12 DEX, 15 WIL
-- Invisible. Save WIL vs. possession when asleep here or suffer _critical damage_.
+6 HP, 5 STR, 12 AGL, 15 PRS
+- Invisible. Save PRS vs. possession when asleep here or suffer _critical damage_.
 
 ### Mentor
-15 HP, 18 WIL, Lightning blast (d6, ignores armor)
+15 HP, 18 PRS, Lightning blast (d6, ignores armor)
 - Immune to physical attacks.
 
 ## 14. Room
@@ -124,17 +124,17 @@ This hall has two stairways with a landing in between. Four large statues are ar
 - Exit back up the stairs to (**14**).
 
 ### Muck Flies
-6 HP, 6 STR, 12 DEX, 3 WIL, bite (d6), groups of d6 (_detachment_)
-- Enzymes do d6 DEX damage when pinned until STR save.
+6 HP, 6 STR, 12 AGL, 3 PRS, bite (d6), groups of d6 (_detachment_)
+- Enzymes do d6 AGL damage when pinned until STR save.
 
 ## 16-17. Hall of the Giants
 A messy hall with  bones littered about, a large cooking pot over a fire pit in the floor, rough sleeping mats made from hay, and also multiple giants.
 -  Exits leading to (**20**), hallway to (**18**), window high above ground (**5W**),blue tapestry covering doorway
--  Giants are hungry and desperate, unable to leave the tower and distressed that their silver horde has shrunk. Still, they may be calmed with a WIL save by the group.
+-  Giants are hungry and desperate, unable to leave the tower and distressed that their silver horde has shrunk. Still, they may be calmed with a PRS save by the group.
 -  6 sacks of silver treasure, including a _Circlet of True-seeing_ (allows the wearer to see through the sky-blindness and spot invisible hungry spirits).
 
 ## Giants
-10 HP, 1 Armor, 17 STR, 6 DEX, 12 WIL
+10 HP, 1 Armor, 17 STR, 6 AGL, 12 PRS
 - Faroch is the armored leader. 2 Armor, club (d10).
 - Sossa drinks molten lead. Molten lead spit (d10, ignores armor)
 - Affa & Isso feud with each other. Club (d10).
@@ -170,14 +170,14 @@ Bearing a full-sized spark to the altar completes **Tintardinal's** master spell
 ## Random Encounters
 
 ### Giant
-10 HP, 1 Armor, 17 STR, 6 DEX, 12 WIL, Club (d10)
+10 HP, 1 Armor, 17 STR, 6 AGL, 12 PRS, Club (d10)
 
 ### Skeletal Dire Pelican (possessed)
-15 HP, 2 Armor, 15 STR, 15 DEX, 3 WIL, Beak (d10)
+15 HP, 2 Armor, 15 STR, 15 AGL, 3 PRS, Beak (d10)
 - Swallow Whole on _critical damage_ to end up in rotting entrails barely held in by ribs.
 - Stomach has d4-1 more skeletons inside already. Reforms if bones are not separated.
 
 ### Ricalu Thieves
-12 HP, 8 STR, 12 DEX, 8 WIL, knife or sling (d6)
+12 HP, 8 STR, 12 AGL, 8 PRS, knife or sling (d6)
 - Blue cloaks (1 on thief, 2 at camp) mundane, but invisible.
-- Shaman at camp can also force group to save DEX vs. annoyance or impairment (bug swarm, dust gust, flash-boom).
+- Shaman at camp can also force group to save AGL vs. annoyance or impairment (bug swarm, dust gust, flash-boom).

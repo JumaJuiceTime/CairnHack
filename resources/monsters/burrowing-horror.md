@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Burrowing Horror
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+6 HP, 1 Armor, 16 STR, 11 AGL, 4 PRS, bite (d10), acid squirt (d8, _blast_)
 
 - Huge insectoids with multiple legs and shiny black eyes. Subsist from dirt, roots, and flesh.
 - Burrow just beneath surfaces to ambush unsuspecting creatures.

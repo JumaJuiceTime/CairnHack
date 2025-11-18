@@ -21,7 +21,7 @@ title: Aberrant Reflections
 
 ### Djinn
 
-10 HP, 1 Armor, 15 DEX, fists (d10+d8)
+10 HP, 1 Armor, 15 AGL, fists (d10+d8)
 
 - Tall, cloudy humanoids from the plane of air. Highly intelligent, use invisibility and illusions to trick other beings.
 - May transform into a whirlwind, sweeping everything on its path.
@@ -37,17 +37,17 @@ Doppelgoopers are poor facsimiles of living things absorbed by **The Fallen**.
 
 ### 	Cecil (a dopplegooper)
 
-​6 HP, 1 Armor, 8 STR, 15 DEX, 6 WIL, dagger (D6) or sword (D8)
+​6 HP, 1 Armor, 8 STR, 15 AGL, 6 PRS, dagger (D6) or sword (D8)
 
 ### Eamil, The Mirror Shard Golem
 
-12 HP, 2 Armor, 15 STR,  10 DEX, 2 x fists (1d8) or fire breath (d8 + d8 *blast*)
+12 HP, 2 Armor, 15 STR,  10 AGL, 2 x fists (1d8) or fire breath (d8 + d8 *blast*)
 
 - Fire breath 5' line
 
 ### The Fallen
 
-This is a hazard not a monster. It should be obviously dangerous with grasping tentacles, biting mouths, and staring eyes.  Doing 12 Damage will temporarily clear a 10' square. Anything entering a space overgrown with The Fallen must make a DEX save or be absorbed in a frenzied slurry of carnage. A Doppelgooper of the victim is vomited out 1d4 rounds later.
+This is a hazard not a monster. It should be obviously dangerous with grasping tentacles, biting mouths, and staring eyes.  Doing 12 Damage will temporarily clear a 10' square. Anything entering a space overgrown with The Fallen must make a AGL save or be absorbed in a frenzied slurry of carnage. A Doppelgooper of the victim is vomited out 1d4 rounds later.
 
 - Flammable, burns slowly while releasing acrid smoke and wailing hideously (attracts Hashara)
 - Wilts quickly if doused with Lemon Magics Cleaning Solution (does not wail)
@@ -55,14 +55,14 @@ This is a hazard not a monster. It should be obviously dangerous with grasping t
 
 ### Flesh Golem
 
-10 HP, 2 Armor, 15 STR,  6 DEX, 2 x fists (d6 + d8)
+10 HP, 2 Armor, 15 STR,  6 AGL, 2 x fists (d6 + d8)
 
 - A hulking construct of flesh and bone, sewn together and animated.
 - Not hostile unless attacked.
 
 ### Ghoul
 
-6 HP, 14 STR, 3 WIL, elongated claws jagged teeth (d8+d6)
+6 HP, 14 STR, 3 PRS, elongated claws jagged teeth (d8+d6)
 
 - Grey-skinned man-things wearing shredded clothes, hunkering over the ground.
 - Craves the flesh of the living, as it grows only more powerful with each victim.

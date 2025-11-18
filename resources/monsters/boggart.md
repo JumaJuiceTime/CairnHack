@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Boggart
 
-3 HP, 4 STR, 17 DEX, 13 WIL
+3 HP, 4 STR, 17 AGL, 13 PRS
 
 - Wild, hairy tricksters that prize shiny trinkets above coin.
 - Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.

@@ -20,7 +20,7 @@ redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 - Crew of 15 heretics is untrained, *impairing* most of their attacks.
 
 ### Cultists
-4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (_Ward_ once per day)
+4 HP, 1 Armor, 14 PRS, mace (d6), Holy Symbol (_Ward_ once per day)
 - Holy men & women in a quest for their deity.
 - Normally travel in groups of 4+.
 
@@ -49,7 +49,7 @@ redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
 - d6/round enveloping, must be washed off.
 
 ### Cultists
-4 HP, 8 STR, 8 DEX, 12 WIL, long knives (d6)
+4 HP, 8 STR, 8 AGL, 12 PRS, long knives (d6)
     • Holy men & women determined to fulfill the beliefs of their Cult.
     • Most are weak and don’t tend to themselves well.
     • One of every 5 cultists will have one item of: armor, d8 weapon, bow.
@@ -61,20 +61,20 @@ redirect_from: /resources/adventure-conversions/the-coming-of-sorg/
     • Believes the Demon to be an imposter and Vnaud his false prophet.
 
 ### Tess One-Handed
-6HP, 12 DEX. Sword (d6)
+6HP, 12 AGL. Sword (d6)
     • Follows Myen the Butcher but believes they have better strategies than Myen.
 
 ### Vnaud the Withered
-6 HP, 14 WIL, long knife (d6), Holy Symbol (Ward once per day)
+6 HP, 14 PRS, long knife (d6), Holy Symbol (Ward once per day)
     • Guards Sorgs physical body and will defend their lord to the death
     • Spell: Ward
 
 Len of Otton
-6HP, 13 DEX. Sword (d6)
+6HP, 13 AGL. Sword (d6)
     • a medallion which confers immunity to the Steps of Greed magic
 
 ### Sorg - High Temple
-12 HP, STR 15, DEX 6, WIL 15, 1 Armor, bile spray (d6 blast)
+12 HP, STR 15, AGL 6, PRS 15, 1 Armor, bile spray (d6 blast)
     • Rhino-sized larva, slow.
     • Defended by Vnaud the Withered and 11 cultist acolytes.
 
@@ -83,7 +83,7 @@ Len of Otton
     • Do not fail moral checks.
 
 ### Defiled Flow (Prime Emanation)
-6 HP, STR 12, DEX 12, WIL 12, 1 Armor, poison bite (d8)
+6 HP, STR 12, AGL 12, PRS 12, 1 Armor, poison bite (d8)
     • Climbing fish. 13’ long, 16-legged.
     • extra d4 of poison damage per round until victim flushed with clean water.
     • On crit damage, it swallows you whole.
@@ -92,19 +92,19 @@ Len of Otton
 5 HP, 12STR, 1 armor, Squeeze (d6)
     • Can fly
     • Can attempt to constrict multiple targets. One additional per round.
-    • Critical Damage: Constrict, victim is reduced to 0 DEX until freed.
+    • Critical Damage: Constrict, victim is reduced to 0 AGL until freed.
 
 ### Air leech Swarm Emanation 
-5 HP, 15 DEX, Swarm (d6, blast)
+5 HP, 15 AGL, Swarm (d6, blast)
     • Non-blast attacks against them are impaired until they latch onto you.
     • Can fly as a swarm
 
 ### Wrestling Gargoyles Emanation 
-5 HP, 12 STR, 12 DEX, 1 Armor, claws (d6+d6)
+5 HP, 12 STR, 12 AGL, 1 Armor, claws (d6+d6)
     • Can Fly
 
 ### Acidic Jelly Emanation 
-5 HP, 8 DEX, acid spray (d6, blast)
+5 HP, 8 AGL, acid spray (d6, blast)
     • Acid does d4 damage per round until washed off.
 
 

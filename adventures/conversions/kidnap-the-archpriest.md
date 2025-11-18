@@ -13,17 +13,17 @@ title: Kidnap the Archpriest
 ## NPC Stats (p. 32)
 
 ### Servant
-2 HP, 8 STR, 10 DEX, 7 WIL, improvised weapon (d4) or if actual weapon (d6)
+2 HP, 8 STR, 10 AGL, 7 PRS, improvised weapon (d4) or if actual weapon (d6)
 - Gertrude the Laundress has 6 HP
 
 ### Gate Guard
-6 HP, 1 Armor, 12 STR, 10 DEX, 12 WIL, axes, spears, swords or pikes (d6)
+6 HP, 1 Armor, 12 STR, 10 AGL, 12 PRS, axes, spears, swords or pikes (d6)
 - Leather armor
 
 ### Noble
-4 HP, (1 Armor), 8 STR, 10 DEX, 12 WIL, dagger/sword (d6)
+4 HP, (1 Armor), 8 STR, 10 AGL, 12 PRS, dagger/sword (d6)
 - Possibly concealed leather armor
 
 ### Black Endoguard
-10 HP, 3 Armor, 15 STR, 12 DEX, 17 WIL, punch (d6) or sword/axe (d8) or two-handed axe strike (d10)
+10 HP, 3 Armor, 15 STR, 12 AGL, 17 PRS, punch (d6) or sword/axe (d8) or two-handed axe strike (d10)
 - Black plate armor

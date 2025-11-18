@@ -13,20 +13,20 @@ title: Prison of the Hated Pretender
 ## Stat Blocks
 
 ### The Hated Pretender
-6 HP, 1 Armor, 15 STR, 8 DEX, 12 WIL, claw x2 (d6+d6)
+6 HP, 1 Armor, 15 STR, 8 AGL, 12 PRS, claw x2 (d6+d6)
 - Undead: Immune to charms, sleep, and mind affecting spells.
 - Immune to mundane weapons. Only damaged by magic, silver, fire, and acid.
 - If body is not completely destroyed, rises again the next morning.
 
 ### Phantasms of Vengeance
-3 HP, 3 Armor, 8 STR, 6 DEX, 15 WIL, touch (d4, ignores armor)
+3 HP, 3 Armor, 8 STR, 6 AGL, 15 PRS, touch (d4, ignores armor)
 - Only corporeal in bright light. Avoids darkness, which causes them to disappear completely.
 - Unstable in dim light; they have 0 armor and check Morale every time any of their group dies.
 
 ## Rooms
 
 ### Area 1: The Face of the Tower
-- **Climbing:** Climbing the tree and tower needs a DEX save if the climber doesn’t have an appropriate background or tool.
+- **Climbing:** Climbing the tree and tower needs a AGL save if the climber doesn’t have an appropriate background or tool.
 
 ### Area 10: Crypt
 ***Important:*** Only modified or re-statted items are mentioned here. There are additional items in the adventure not mentioned here.
@@ -36,7 +36,7 @@ title: Prison of the Hated Pretender
 - **Marble Sarcophagi:** Gold etched mace (d8 damage)
 - **Ornate Sarcophagus**
     - **Bars:** Bars can be bent with up to three characters with at least 30 points of STR collectively, and an appropriate setup allowing them to pool their strength. Attempts with insufficient strength or alternative approaches are at the GM’s discretion. The original adventure allows under-strength attempts to have a small chance of success, which can be represented with a STR save or a partial effect.
-    - **Trap:** Triggering the trap causes DEX save or take 1d6 STR damage.
+    - **Trap:** Triggering the trap causes AGL save or take 1d6 STR damage.
     - **Loot:** Bronze plate (3 armor, bulky)
 
 ## Appendix

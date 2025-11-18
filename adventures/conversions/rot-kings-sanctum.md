@@ -18,28 +18,28 @@ title: Rot King's Sanctum
 
 ### Corpse Crawler
 
-8 HP, 9 STR, 10 DEX, 8 WIL, tentacles (d8+d8 _blast_)
+8 HP, 9 STR, 10 AGL, 8 PRS, tentacles (d8+d8 _blast_)
 
 - **Critical Damage**: target is paralyzed, to be devoured later
 - Can walk on walls, ceilings, etc.
 
 ### Cultist
 
-4 HP,  11 STR, 10 DEX, 9 WIL, dagger (d6)
+4 HP,  11 STR, 10 AGL, 9 PRS, dagger (d6)
 
 ### Cultist Guard
 
-4 HP, 1 Armor, 12 STR, 10 DEX, 11 WIL, mace (d8)
+4 HP, 1 Armor, 12 STR, 10 AGL, 11 PRS, mace (d8)
 
 ### Fly Swarm
 
-2 HP, 6 STR, 12 DEX, 11 WIL, bite (d8 _blast_) _detachment_
+2 HP, 6 STR, 12 AGL, 11 PRS, bite (d8 _blast_) _detachment_
 
 - Can only be harmed by fire, smoke, or spells.
 
 ### Melvin (escaping Prisoner)
 
-2 HP, 6 STR, 12 DEX, 10 WIL, 
+2 HP, 6 STR, 12 AGL, 10 PRS, 
 
 - Short humanoid with long nose and ears. Live underground or deep in forests.
 - Intelligent tinker, loves messing with any kind of mechanism. Can easily be convinced by the promise of something novel or uncommon.
@@ -47,7 +47,7 @@ title: Rot King's Sanctum
 
 ### Moldy Skeletons
 
-4 HP, 1 Armor, 9 STR, 13 DEX, 10 WIL, rake (d6)
+4 HP, 1 Armor, 9 STR, 13 AGL, 10 PRS, rake (d6)
 
 - Immune to sleep or charm spells
 - When saving for critical damage (regardless of the outcome) there is 3-in-6 chance they release a ***\*cloud of spores\**** against their assailant.
@@ -55,19 +55,19 @@ title: Rot King's Sanctum
 
 ### Plague Priest
 
-6 HP, 2 Armor, 10 STR, 10 DEX, 11 WIL, mace (d8)
+6 HP, 2 Armor, 10 STR, 10 AGL, 11 PRS, mace (d8)
 
 - **Spellbook**: _Nithis' Rot_: Target's flesh rots away in one area (1d4 STR loss)
 
 ### Rat Swarm
 
-4 HP, 6 STR, 12 DEX, 11 WIL, bite (d3) _detachment_
+4 HP, 6 STR, 12 AGL, 11 PRS, bite (d3) _detachment_
 
 - Afraid of fire
 
 ### Rot King
 
-12 HP, 2 Armor, 15 STR, 10 DEX, 11 WIL, king's mace (d8)
+12 HP, 2 Armor, 15 STR, 10 AGL, 11 PRS, king's mace (d8)
 
 - Summon Swarm - 1d4 times per day, the Rot King can release a *Fly Swarm* from their body.
 
@@ -78,7 +78,7 @@ title: Rot King's Sanctum
   
 ### Shadow
 
-6 HP, 8 STR, 10 DEX, 14 WIL, draining touch (d6, ignores armor) 
+6 HP, 8 STR, 10 AGL, 14 PRS, draining touch (d6, ignores armor) 
 
 - Incorporeal monsters that look like animated shadows.
 - Unharmed by mundane attacks, sleep or mind control.
@@ -86,7 +86,7 @@ title: Rot King's Sanctum
 
 ### Wererat
 
-**Wererat:** 6 HP, 11 STR, 14 DEX, 8 WIL, claws (d6+d6), bite (d8)
+**Wererat:** 6 HP, 11 STR, 14 AGL, 8 PRS, claws (d6+d6), bite (d8)
 
 - **Critical Damage** (from a were rat bite) contract lycanthropy.
 - Can summon a rat swarm once per day, the rats arrive in 1d4 rounds.
@@ -98,7 +98,7 @@ title: Rot King's Sanctum
 
 ### Room 1
 #### Pressure Plate/Gas Trap
-- Paralyzing gas, WIL save or be paralyzed for 1d4 turns.
+- Paralyzing gas, PRS save or be paralyzed for 1d4 turns.
 
 ### Room 4
 #### Mace (d8, see note)
@@ -161,7 +161,7 @@ title: Rot King's Sanctum
 
 #### Book of the Will of Nithis
 
-- WIL save to read. On a fail lose 1d6 WIL. On a success gain 1 WIL (permanent).
+- PRS save to read. On a fail lose 1d6 PRS. On a success gain 1 PRS (permanent).
 
 ### Room 16
 

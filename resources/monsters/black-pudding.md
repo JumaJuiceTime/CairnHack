@@ -6,7 +6,7 @@ grand_parent: Resources
 
 # Black Pudding
 
-12 HP, 11 STR, 5 DEX, 3 WIL, devouring touch (d8)
+12 HP, 11 STR, 5 AGL, 3 PRS, devouring touch (d8)
 
 - Giant, brainless blobs of black jelly driven only by their insatiable hunger.
 - Moves along walls and across ceilings. Squeeze through holes and cracks with ease.

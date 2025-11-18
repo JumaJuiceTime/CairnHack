@@ -18,7 +18,7 @@ title: Falkrest Abbey
 
 ### Climbing the Lune Mountains
 #### Blizzard
-- Characters not protected from the cold must save DEX or suffer 1d4 DEX damage.
+- Characters not protected from the cold must save AGL or suffer 1d4 AGL damage.
 
 ### 1 Entrance
 #### Lifting the portcullis
@@ -52,21 +52,21 @@ title: Falkrest Abbey
 
 ### 9 Columbarium of the Knights
 #### Pillaging the remaining tombstones
-- A character takes 1d4 WIL damage for each tombstone pillaged, which lasts while inside the abbey.
+- A character takes 1d4 PRS damage for each tombstone pillaged, which lasts while inside the abbey.
 
 ### 10 West Corridor
 (as written)
 
 ### 11 Dark Antechamber
 #### Upon entering
-- Save DEX or have your torches, candles, etc be extinguished by a gust of icy wind.
+- Save AGL or have your torches, candles, etc be extinguished by a gust of icy wind.
 
 ### 12 the Abbot’s Sepulchre
 #### Unnatural darkness
 - Dims all non-holy sources of light. Attacks are impaired within the darkness.
 
 #### Robbing the Corps
-- Make a DEX save to not wake the Abbot for each item you take.
+- Make a AGL save to not wake the Abbot for each item you take.
 
 #### Fleeing the Abbot
 - Never pursues. Sits back on throne and resumes brooding: heals 1 STR per turn.
@@ -76,7 +76,7 @@ title: Falkrest Abbey
 
 ### 14 the Collapsed Sepulchre
 #### Opening the sarcophagus
-- If the ceiling falls, save DEX or take d8+d8 STR damage. Damage is reduced to d6 if the ceiling is propped.
+- If the ceiling falls, save AGL or take d8+d8 STR damage. Damage is reduced to d6 if the ceiling is propped.
 
 #### Dawn omen
 - Bronze morningstar (d6), deals enhanced damage vs undead, charring their flesh.
@@ -86,7 +86,7 @@ title: Falkrest Abbey
 
 ### 16 the Tomb of Queen Ethofled
 #### Maid of honor
-- Dagger (d6), increases WIL by 2 while carrying it.
+- Dagger (d6), increases PRS by 2 while carrying it.
 
 ### 17 the Secret Garden
 (as written)
@@ -96,80 +96,80 @@ title: Falkrest Abbey
 
 ### 19 the Hall of Crowning
 #### Killing the knight
-- The abbey rumbles, rubble beginning to fall from the ceilings. Every turn, characters must save DEX or suffer 1d4 STR damage.
+- The abbey rumbles, rubble beginning to fall from the ceilings. Every turn, characters must save AGL or suffer 1d4 STR damage.
 
 #### St. Brynedd’s tears
-- The liquid heals all diseases, poisons, wounds, amputations and curses. It may bring back to life those recently deceased (24 hours). If used against undead, they save DEX or be completely destroyed. Otherwise, they take 3d8 STR damage.
+- The liquid heals all diseases, poisons, wounds, amputations and curses. It may bring back to life those recently deceased (24 hours). If used against undead, they save AGL or be completely destroyed. Otherwise, they take 3d8 STR damage.
 
 ## Bestiary
 
 ### Bandit
-3 HP, 1 Armor, STR 10, DEX 12, WIL 12, sword (d6)
+3 HP, 1 Armor, STR 10, AGL 12, PRS 12, sword (d6)
 
 ### Cave Bear
-6 HP, 2 Armor, STR 16, DEX 12, WIL 10, claws (d8+d8)
+6 HP, 2 Armor, STR 16, AGL 12, PRS 10, claws (d8+d8)
 - when hungry, will follow a trail of blood by scent
 
 ### Flayed Zombie
-3 HP, STR 8, DEX 8, WIL 8, bite (d6)
+3 HP, STR 8, AGL 8, PRS 8, bite (d6)
 - can easily be heard moaning.
 - unaffected by poison, charm or mind control.
 
 ### Giant Rat
-3 HP, STR 5, DEX 10, WIL 8, bite (d6)
+3 HP, STR 5, AGL 10, PRS 8, bite (d6)
 - **critical damage**: infects the wound, die in 1d6 days unless treated. 
 - will flee from fire.
 
 ### Goat
-4 HP, 1 Armor, STR 12, DEX 12, WIL 6, butt (d4)
+4 HP, 1 Armor, STR 12, AGL 12, PRS 6, butt (d4)
 
 ### Ghost of Queen Enthofled
-7 HP, 3 Armor, STR 12, DEX 10, WIL 16, touch (d6)
-- **critical damage**: also deal 1d4 WIL damage
+7 HP, 3 Armor, STR 12, AGL 10, PRS 16, touch (d6)
+- **critical damage**: also deal 1d4 PRS damage
 - unaffected by poison, charm or mind control.
 - can only be harmed by silver weapons or magic.
 
 ### Grapnor
-3 HP, 2 Armor, STR 10, DEX 10, WIL 10, handaxe (d6)
+3 HP, 2 Armor, STR 10, AGL 10, PRS 10, handaxe (d6)
 - equipped with winter clothes, chainmail, handaxe (d6), silver dagger (d4), lantern (broken), 17gp
 
 ### Icescale Viper
-4 HP, 1 Armor, STR 12, DEX 12, WIL 10, bite (d6)
+4 HP, 1 Armor, STR 12, AGL 12, PRS 10, bite (d6)
 - **critical damage**: victim’s body (not equipment) is turned to solid ice. Thawing oil in room 3 can revert this effect. 
 - will flee from fire; fire attacks against them are enhanced.
 - immune to cold effects and cold damage.
 
 ### Iron Living Statue
-4 HP, 3 Armor, STR 16, DEX 10, WIL 10, blow (d8+d8)
-- dealing damage to their strength: save DEX or the weapon becomes stuck. Stuck weapons can be retrieved after statue’s death.
+4 HP, 3 Armor, STR 16, AGL 10, PRS 10, blow (d8+d8)
+- dealing damage to their strength: save AGL or the weapon becomes stuck. Stuck weapons can be retrieved after statue’s death.
 - unaffected by sleep effects.
 
 ### Lune Yeti
-8 HP, 2 Armor, STR 16, DEX 14, WIL 14, claws (d6+d6)
+8 HP, 2 Armor, STR 16, AGL 14, PRS 14, claws (d6+d6)
 - magical attacks against them are impaired.
 - fire attacks against them are enhanced.
 
 ### Rowayn, the Eternal Knight
-9 HP, 3 Armor, STR 14, DEX 12, WIL 16, longsword (d8+d8)
+9 HP, 3 Armor, STR 14, AGL 12, PRS 16, longsword (d8+d8)
 - unaffected by poison, charm or mind control.
 - can only be harmed by silver weapons or magic.
 - equipped with plate armor (3) and magical longsword (d8+d8)
 
 ### Skeleton
-3 HP, 1 Armor, STR 10, DEX 10, WIL 12, axe or bow (d6)
+3 HP, 1 Armor, STR 10, AGL 10, PRS 12, axe or bow (d6)
 - unaffected by poison, charm or mind control
 
 ### Treant
-10 HP, 3 Armor, STR 16, DEX 10, WIL 14, branches (d10+d10, *blast*)
+10 HP, 3 Armor, STR 16, AGL 10, PRS 14, branches (d10+d10, *blast*)
 - distrusts fire and those who wield it
 - each treant can animate 2 trees, which fight as treants without HP.
 
 ### Wight
-6 HP, 2 Armor, STR 14, DEX 8, WIL 14, touch (d6)
+6 HP, 2 Armor, STR 14, AGL 8, PRS 14, touch (d6)
 - **critical damage**: any STR loss is permanent. 
 - unaffected by poison, charm or mind control.
 - can only be harmed by silver weapons or magic.
 
 ### Wolf
-4 HP, 1 Armor, STR 12, DEX 14, WIL 8, bite (d6)
-- packs of 4 or more wolves have WIL 12.
+4 HP, 1 Armor, STR 12, AGL 14, PRS 8, bite (d6)
+- packs of 4 or more wolves have PRS 12.
