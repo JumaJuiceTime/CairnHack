@@ -120,10 +120,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Phalanx
 3 or more allies may form a phalanx.
-If they all bear shields (not bucklers) then
-they gain an additional point of Armour. If
-they all bear spears (or similar) then enemies
-cannot Attack on the turn that they charge.
+If they all bear shields (not bucklers) then they gain an additional point of Armour. If they all bear spears (or similar) then enemies cannot Attack on the turn that they charge.
 
 ## Feats
 After using a Feat the user must pass a Save or become Strained, unable to perform Feats until they have a breather. Each Feat can only be used once per Attack by each combatant involved. 
