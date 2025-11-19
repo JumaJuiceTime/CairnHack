@@ -139,7 +139,7 @@ After using a Feat the user must pass a Save or become Strained, unable to perfo
 ### DENY - _Rebuff an attack before it lands_ 
 - Use after an Attack roll against you or an ally within arm’s reach. 
 - Discard one Attack die. 
-- Pass a Spirit Save or become Strained. 
+- Pass a Presence Save or become Strained. 
 
 
 ## Gambits 
