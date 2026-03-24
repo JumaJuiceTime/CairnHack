@@ -1,5 +1,9 @@
-
-
+---
+layout: default
+title: Sites
+parent: Warden's Guide 
+grand_parent: Blood Moon's Gaze
+---
 
 # Sites
 
