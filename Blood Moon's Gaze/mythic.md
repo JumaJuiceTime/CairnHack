@@ -12,10 +12,10 @@ nav_order: 3
 
 ### WARBANDS
 Two-dozen or so combatants fighting together are treated as a single Warband.
-• When they are Mortally Wounded they are routed from the battle.
-• At VIG 0 they are wiped out entirely, at SPI 0 they are broken.
-• They are not harmed by individual attacks unless they are Blast attacks or suitably large-scale.
-• Warband attacks against individuals receive +d12 and cause Blast Damage.
+- When they are Mortally Wounded they are routed from the battle.
+- At VIG 0 they are wiped out entirely, at SPI 0 they are broken.
+- They are not harmed by individual attacks unless they are Blast attacks or suitably large-scale.
+- Warband attacks against individuals receive +d12 and cause Blast Damage.
 
 #### LEADING FROM THE FRONT
 One individual within a Warband can add their Attack dice to the Warband’s Attack Roll, leading from the front. If they do, they suffer the same Damage that the Warband does until their next turn.
@@ -32,23 +32,23 @@ Stone walls cannot be breached by
 conventional means, though their gates are
 usually a viable target.
 
-Gate: 5GD, A2
-Rampart: 10GD, A2
-Castle Wall: 10GD, A3
+- Gate: 5GD, A2
+- Rampart: 10GD, A2
+- Castle Wall: 10GD, A3
 
 Colliding ships take d12 Damage. If one ship
 is much larger it takes d6 Damage instead.
 
-Rowboat: 4GD, carries 6 passengers
-Longship: 7GD, A1, carries a Warband
-Warship: 10GD, A2, carries 2 Warbands
+- Rowboat: 4GD, carries 6 passengers
+- Longship: 7GD, A1, carries a Warband
+- Warship: 10GD, A2, carries 2 Warbands
 
 #### ARTILLERY AND SIEGERY
-Siege Tower: 7GD, A2
-Battering Ram: d12
-Stone Thrower: d12 blast
-Bolt Launcher: 2d12
-Trebuchet: 3d12 blast, immobile
+- Siege Tower: 7GD, A2
+- Battering Ram: d12
+- Stone Thrower: d12 blast
+- Bolt Launcher: 2d12
+- Trebuchet: 3d12 blast, immobile
 
 ### RECRUITMENT
 Soldiers are drawn from loyal Vassals,
@@ -64,20 +64,20 @@ SPI 0 a Warband will not follow orders, acting
 only in their self interest.
 
 ### WARBANDS (rework the mounted units)
-Levy: VIG 10, CLA 10, SPI 7, 3GD
+**Levy:** VIG 10, CLA 10, SPI 7, 3GD
 Crude polearm (d8 long)
 
-Skirmishers: VIG 10, CLA 13, SPI 10, 2GD
+**Skirmishers:** VIG 10, CLA 13, SPI 10, 2GD
 Shortbow (d6 long)
 
-Mercenaries: VIG 13, CLA 10, SPI 10, 4GD
+**Mercenaries:** VIG 13, CLA 10, SPI 10, 4GD
 A3 (mail, helm, shield)
 Spear (d8 hefty), shield (d4)
 
-Riders: VIG 10, CLA 13, SPI 10, 3GD
+**Riders:** VIG 10, CLA 13, SPI 10, 3GD
 Javelins (d6), handaxe (d6), steed
 
-Knights: VIG 13, CLA 10, SPI 13, 5GD
+**Knights:** VIG 13, CLA 10, SPI 13, 5GD
 A3 (mail, helm, shield)
 Mace (d8 hefty), shield (d4), charger (d8
 trample)
