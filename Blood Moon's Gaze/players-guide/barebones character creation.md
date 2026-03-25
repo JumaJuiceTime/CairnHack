@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Barebones Character Creation
-parent: Rules
-grand_parent: Barebones
-nav_order: 5
+parent: Player's Guide
+grand_parent: Blood Moon's Gaze
 ---
 
 # Barebones Character Creation
