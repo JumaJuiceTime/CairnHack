@@ -238,22 +238,21 @@ Additionally, roll on the following tables for your character's armor, weapons, 
 | :---: | :------------------------------------------------- |
 | **1** | None. Roll for [Additional Gear](#additional-gear) |
 | **2** | Shield (+1 Armor)                                  |
-| **3** | Helmet (+1 Armor)                                  |
-| **4** | Gambeson (+1 Armor)                                |
-| **5** | Chainmail (2 Armor, _bulky_)                       |
-| **6** | Plate (3 Armor, _bulky_)                           |
-
+| **3** | Linothorax, Kardiophylax, or Helmet (+1 Armor)     |
+| **4** | Muscle Cuirass, Pectorale (1 Armor, _bulky_)       |
+| **5** | Cuirass & Greaves (2 Armor, _bulky_)               |
+| **6** | Panoply (3 Armor, _bulky_)                         |
 
 #### Weapons (d6)
 
 |  d6   | Weapons                                                     |
 | :---: | :---------------------------------------------------------- |
 | **1** | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             |
-| **2** | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            |
-| **3** | Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) |
+| **2** | Spear, Sword, Mace, Axe, Khopesh, etc. (d8 damage)          |
+| **3** | Pike, War Hammer, War Axe, etc. (d10 damage, _bulky_)       |
 | **4** | Sling (d6 damage)                                           |
-| **5** | Bow (d6 damage, _bulky_)                                    |
-| **6** | Crossbow (d8 damage, _bulky_)                               |
+| **5** | Horn Bow (d6 damage, _bulky_)                               |
+| **6** | Composite Bow (d8 damage, _bulky_)                          |
 
 #### Additional Gear
 
