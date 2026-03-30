@@ -228,3 +228,149 @@ is generally completed by the next Season.
 completed in a Season.
 **Grand** projects such as castles and roads
 require an entire Age of work.
+
+# Beginnings & Glory
+
+## START & SCOPE
+Every group that sits down to play the game
+is different, and you should consider the
+Start and Scope of a game before you begin.
+The **Start** is the opening situation that the
+players find themselves in. The **Scope** is how
+long you expect the game to run, both in and
+out of game.
+
+The examples below are not a definitive list.
+
+## START
+
+**Wanderer** - Young Knights-Errant with
+d6GD (Guard) and d12+d6 in each Virtue.
+They arrive in the Realm seeking Glory.
+If they lack direction, have them seek a
+Seer’s counsel.
+
+**Courtier** - Mature Knights-Gallant with
+2d6GD and d12+6 in each Virtue. They have a
+place in Court at the Seat of Power. The first
+Omen of the nearest Myth is delivered as
+news to the Court.
+
+**Ruler** - Mature Knights-Tenant with d6+6GD
+and d12+6 in each Virtue. One Knight rules
+a Holding, the others are in their Circle. The
+Seat of Power is under a wicked influence.
+
+## SCOPES
+
+Adventure** - One session. Here it can save
+time to generate a few Knights ahead of the
+game and let the players choose one each.
+
+**Chronicle** - A known number of sessions.
+Season and Age turns are planned out ahead
+of time. For six sessions this might be a
+Season turn at the end of each session, and
+an Age turn at the end of each Winter.
+
+**Saga** - An indeterminate number of sessions.
+Here you can let the players guide the scope
+as they explore the world.
+
+## GLORY
+All Knights seek Glory, that they might one
+day be deemed worthy of the City Quest.
+
+## GLORY THROUGH MYTHS
+
+When the group feels that a Myth has been
+resolved, reaching a conclusion of any type,
+all Knights who played a part in that Myth
+gain 1 **Glory**.
+
+RANK
+A Knight’s Glory dictates their rank:
+0 Glory - Knight-Errant
+Worthy of leading a Warband
+3 Glory - Knight-Gallant
+Worthy of a seat in Council or Court
+6 Glory - Knight-Tenant
+Worthy of ruling a Holding
+9 Glory - Knight-Dominant
+Worthy of ruling a Seat of Power
+12 Glory - Knight-Radiant
+Worthy of the City Quest
+
+## WORTHINESS
+Rank alone does not immediately grant the
+Knight a Council position or rule of a
+Holding. It merely proves their worthiness.
+
+A Knight may find themselves in a position
+for which their rank is unworthy. They are
+sure to face initial opposition, but if this can
+be overcome then their worthiness is proven.
+
+## GLORY BY OTHER MEANS
+In a public duel or joust, Knights may stake
+Glory against a willing opponent. The victor
+gains 1 Glory, the loser loses 1 Glory.
+
+Tournaments may also grant 1 Glory to the
+winning Knight, provided there are
+significant spectators and spectacle.
+
+If a battle is large enough to be remembered
+in history, all Knights on the victorious side
+gain 1 Glory.
+
+When the game moves to a new Age all
+Knights gain 1 Glory through serving the
+Realm and manoeuvring in Court.
+
+# Knighthood
+You are Knights, united by a common Oath
+and visions of the City. You may have
+dreams of glory, but every Knight must
+accept the risk of death.
+
+The Seers who knighted you have deemed
+that you travel as a Company. While some
+of you may rest, roam, or die, your collective
+journey will be as one.
+
+Knights have 3 Virtues. Roll a value for each
+in order. The Start that you chose for your
+Company determines the dice you roll. If
+unsure, roll d12+d6.
+
+## VIGOUR
+Strong limbs, firm hands, powerful lungs.
+## CLARITY
+Keen instinct, lucid mind, shrewd eyes.
+## SPIRIT
+Charming tongue, iron will, fierce heart.
+
+Roll for **Guard** (GD), your skill at avoiding
+Wounds. The Start that you chose for your
+company determines the dice you roll.
+
+Every Knight has a dagger (d6), torches,
+rope, dry rations, and camping gear.
+Every Knight knows the three **Feats** (p10).
+
+## SQUIRES
+Small Companies (2 Knights or fewer) may
+give each Knight a Squire. They serve as
+apprentices, and are not yet Knights, so
+cannot gain Glory or perform Feats.
+
+2d6 for each Virtue, 1GD.
+They ride a pony (VIG 7, CLA 7, SPI 2, 2GD) and
+carry a dagger (d6).
+Roll d6 for their extra equipment.
+
+1. Cudgel (d8 hefty), 2: Axe (d8 hefty),
+3. Hatchet (d6), 4: Shortbow (d6 long),
+5. Shield (d4, A1), 6: Three Javelins (d6).
+When Knighted they gain d6 in each Virtue.
