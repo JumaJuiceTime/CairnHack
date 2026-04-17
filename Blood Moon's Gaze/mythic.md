@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 title: Mythic
 parent: Blood Moon's Gaze
